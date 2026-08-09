@@ -1,0 +1,3142 @@
+"county","county_name","ec_county","ec_high_county"
+0,"National average",0.814464121086812,1.25263633210073
+1000,"State average, Alabama",0.595470000606061,1.06677515166667
+1001,"Autauga, Alabama",0.72077,1.21372
+1003,"Baldwin, Alabama",0.74313003,1.28302
+1005,"Barbour, Alabama",0.41365999,0.91896999
+1007,"Bibb, Alabama",0.63151997,1.06378
+1009,"Blount, Alabama",0.72561997,1.10569
+1011,"Bullock, Alabama",0.35515001,0.95595998
+1013,"Butler, Alabama",0.46026,0.93106002
+1015,"Calhoun, Alabama",0.60189003,1.04627
+1017,"Chambers, Alabama",0.49761,0.91306001
+1019,"Cherokee, Alabama",0.60461003,0.94985002
+1021,"Chilton, Alabama",0.63505,1.04907
+1023,"Choctaw, Alabama",0.67873001,1.04441
+1025,"Clarke, Alabama",0.56535,0.97135001
+1027,"Clay, Alabama",0.57560998,0.99426001
+1029,"Cleburne, Alabama",0.69016999,1.03829
+1031,"Coffee, Alabama",0.68441999,1.19384
+1033,"Colbert, Alabama",0.64434999,1.12896
+1035,"Conecuh, Alabama",0.44521999,0.8204
+1037,"Coosa, Alabama",0.48805001,0.90675998
+1039,"Covington, Alabama",0.60332,1.03188
+1041,"Crenshaw, Alabama",0.60762,1.04796
+1043,"Cullman, Alabama",0.65998,1.08136
+1045,"Dale, Alabama",0.63924998,1.16705
+1047,"Dallas, Alabama",0.45451,0.90153003
+1049,"DeKalb, Alabama",0.59283,0.97513002
+1051,"Elmore, Alabama",0.69626999,1.16711
+1053,"Escambia, Alabama",0.46434,0.88358003
+1055,"Etowah, Alabama",0.59388,1.0541
+1057,"Fayette, Alabama",0.68558002,1.11631
+1059,"Franklin, Alabama",0.57484001,0.97758001
+1061,"Geneva, Alabama",0.58556002,1.0051301
+1063,"Greene, Alabama",0.458,0.89257997
+1065,"Hale, Alabama",0.58731002,1.15468
+1067,"Henry, Alabama",0.60405999,1.05902
+1069,"Houston, Alabama",0.57523,1.12764
+1071,"Jackson, Alabama",0.57870001,0.96991003
+1073,"Jefferson, Alabama",0.59913999,1.35558
+1075,"Lamar, Alabama",0.71999002,1.11169
+1077,"Lauderdale, Alabama",0.69683999,1.1968499
+1079,"Lawrence, Alabama",0.63709003,1.01165
+1081,"Lee, Alabama",0.72622001,1.31224
+1083,"Limestone, Alabama",0.70283997,1.25098
+1085,"Lowndes, Alabama",0.41341001,0.94134003
+1087,"Macon, Alabama",0.45666999,0.94809997
+1089,"Madison, Alabama",0.74789,1.33155
+1091,"Marengo, Alabama",0.57516998,1.08999
+1093,"Marion, Alabama",0.64333999,1.0683399
+1095,"Marshall, Alabama",0.56095999,1.05256
+1097,"Mobile, Alabama",0.56962001,1.15688
+1099,"Monroe, Alabama",0.47554001,0.98108
+1101,"Montgomery, Alabama",0.49068999,1.11755
+1103,"Morgan, Alabama",0.61510003,1.13327
+1105,"Perry, Alabama",NA,NA
+1107,"Pickens, Alabama",0.62550998,1.10858
+1109,"Pike, Alabama",0.59630001,1.14779
+1111,"Randolph, Alabama",0.55489999,0.94848001
+1113,"Russell, Alabama",0.56879997,1.01088
+1115,"St. Clair, Alabama",0.78175998,1.18944
+1117,"Shelby, Alabama",0.82049,1.37665
+1119,"Sumter, Alabama",0.54794002,1.12229
+1121,"Talladega, Alabama",0.52474999,0.97731
+1123,"Tallapoosa, Alabama",0.51406997,1.05039
+1125,"Tuscaloosa, Alabama",0.64775002,1.23939
+1127,"Walker, Alabama",0.64082003,1.06065
+1129,"Washington, Alabama",0.70414001,1.05941
+1131,"Wilcox, Alabama",0.42162001,0.96622002
+1133,"Winston, Alabama",0.59921002,0.94875997
+2000,"State average, Alaska",0.988170389615385,1.27181884230769
+2013,"Aleutians East, Alaska",0.91415,1.1502399
+2016,"Aleutians West, Alaska",0.83311999,1.14247
+2020,"Anchorage, Alaska",1.02472,1.38776
+2050,"Bethel, Alaska",0.76327002,1.0370899
+2060,"Bristol Bay, Alaska",NA,NA
+2068,"Denali, Alaska",1.16948,1.44254
+2070,"Dillingham, Alaska",0.90030998,1.18785
+2090,"Fairbanks North Star, Alaska",1.09859,1.33938
+2100,"Haines, Alaska",1.1621799,1.42883
+2105,"Hoonah-Angoon, Alaska",1.04737,1.26194
+2110,"Juneau, Alaska",1.1094,1.44396
+2122,"Kenai Peninsula, Alaska",1.03391,1.35446
+2130,"Ketchikan Gateway, Alaska",0.98493999,1.2909
+2150,"Kodiak Island, Alaska",1.06233,1.37884
+2158,"Wade Hampton, Alaska",0.64175999,0.85314
+2164,"Lake and Peninsula, Alaska",NA,NA
+2170,"Matanuska-Susitna, Alaska",1.09532,1.36194
+2180,"Nome, Alaska",0.83958,1.22787
+2185,"North Slope, Alaska",1.08719,1.2475899
+2188,"Northwest Arctic, Alaska",0.83544999,1.1256
+2195,"Petersburg, Alaska",1.04632,1.33395
+2198,"Prince of Wales-Hyder, Alaska",0.86852002,1.13743
+2220,"Sitka, Alaska",1.1381,1.41057
+2230,"Skagway, Alaska",1.1267101,1.43251
+2240,"Southeast Fairbanks, Alaska",0.99532002,1.25227
+2261,"Valdez-Cordova, Alaska",1.0594701,1.3605601
+2275,"Wrangell, Alaska",1.06294,1.33237
+2290,"Yukon-Koyukuk, Alaska",0.79198003,1.1452301
+4000,"State average, Arizona",0.691928001333333,1.18112866533333
+4001,"Apache, Arizona",0.48368001,1.05762
+4003,"Cochise, Arizona",0.79714,1.2058901
+4005,"Coconino, Arizona",0.75237,1.34867
+4007,"Gila, Arizona",0.61997002,1.08929
+4009,"Graham, Arizona",0.68656999,1.21707
+4011,"Greenlee, Arizona",0.81149,1.10059
+4012,"La Paz, Arizona",0.61006999,1.08753
+4013,"Maricopa, Arizona",0.74400002,1.3991899
+4015,"Mohave, Arizona",0.77204001,1.14623
+4017,"Navajo, Arizona",0.57981002,1.14608
+4019,"Pima, Arizona",0.71572,1.31784
+4021,"Pinal, Arizona",0.77478999,1.23835
+4023,"Santa Cruz, Arizona",0.52688998,0.99980998
+4025,"Yavapai, Arizona",0.84227997,1.28281
+4027,"Yuma, Arizona",0.66210002,1.07996
+5000,"State average, Arkansas",0.689512264533333,0.9895542692
+5001,"Arkansas, Arkansas",0.61054999,0.99048001
+5003,"Ashley, Arkansas",0.68015999,0.94155002
+5005,"Baxter, Arkansas",0.78823,1.05081
+5007,"Benton, Arkansas",0.84904999,1.3865
+5009,"Boone, Arkansas",0.76545,1.01561
+5011,"Bradley, Arkansas",0.60974002,0.91320997
+5013,"Calhoun, Arkansas",0.69174999,0.94217002
+5015,"Carroll, Arkansas",0.71524,1.00684
+5017,"Chicot, Arkansas",0.56199002,0.94441998
+5019,"Clark, Arkansas",0.71052998,1.03105
+5021,"Clay, Arkansas",0.74431998,0.95569003
+5023,"Cleburne, Arkansas",0.77938998,1.05871
+5025,"Cleveland, Arkansas",0.75866997,0.95835
+5027,"Columbia, Arkansas",0.64563,1.01647
+5029,"Conway, Arkansas",0.70840001,1.017
+5031,"Craighead, Arkansas",0.72960001,1.11104
+5033,"Crawford, Arkansas",0.76648998,1.06961
+5035,"Crittenden, Arkansas",0.56164002,0.91145998
+5037,"Cross, Arkansas",0.68954998,1.00668
+5039,"Dallas, Arkansas",0.57362998,0.84039998
+5041,"Desha, Arkansas",0.56584001,0.92456001
+5043,"Drew, Arkansas",0.71228999,1.00713
+5045,"Faulkner, Arkansas",0.83756,1.24049
+5047,"Franklin, Arkansas",0.75325,1.02396
+5049,"Fulton, Arkansas",0.73201001,0.93295002
+5051,"Garland, Arkansas",0.70425999,1.04039
+5053,"Grant, Arkansas",0.82261002,1.06117
+5055,"Greene, Arkansas",0.74122,1.04009
+5057,"Hempstead, Arkansas",0.57415003,0.87011999
+5059,"Hot Spring, Arkansas",0.68937999,0.94747001
+5061,"Howard, Arkansas",0.62585002,0.92501998
+5063,"Independence, Arkansas",0.72654998,1.02756
+5065,"Izard, Arkansas",0.73961002,0.96292001
+5067,"Jackson, Arkansas",0.64454001,0.91491997
+5069,"Jefferson, Arkansas",0.57021999,0.85004002
+5071,"Johnson, Arkansas",0.63472998,0.95682001
+5073,"Lafayette, Arkansas",0.64393997,0.92433
+5075,"Lawrence, Arkansas",0.72068,0.99085999
+5077,"Lee, Arkansas",0.52933002,0.85029
+5079,"Lincoln, Arkansas",0.65166003,0.92111999
+5081,"Little River, Arkansas",0.71503001,0.94599003
+5083,"Logan, Arkansas",0.72668999,0.96354002
+5085,"Lonoke, Arkansas",0.84548002,1.15728
+5087,"Madison, Arkansas",0.79619998,1.0660501
+5089,"Marion, Arkansas",0.71357,1.00307
+5091,"Miller, Arkansas",0.64515001,0.9181
+5093,"Mississippi, Arkansas",0.57393003,0.88981003
+5095,"Monroe, Arkansas",0.55575001,0.87870997
+5097,"Montgomery, Arkansas",0.69204998,0.95297998
+5099,"Nevada, Arkansas",0.61993998,0.83585
+5101,"Newton, Arkansas",0.76115,0.95034999
+5103,"Ouachita, Arkansas",0.63314998,0.95936
+5105,"Perry, Arkansas",0.77210999,1.0637701
+5107,"Phillips, Arkansas",0.49533999,0.83274001
+5109,"Pike, Arkansas",0.66134,0.92654002
+5111,"Poinsett, Arkansas",0.64930999,0.93336999
+5113,"Polk, Arkansas",0.69538999,0.94331998
+5115,"Pope, Arkansas",0.74772,1.07047
+5117,"Prairie, Arkansas",0.70025998,0.99138999
+5119,"Pulaski, Arkansas",0.68171,1.22148
+5121,"Randolph, Arkansas",0.72465003,0.95175999
+5123,"St. Francis, Arkansas",0.53117001,0.83639002
+5125,"Saline, Arkansas",0.79585999,1.17575
+5127,"Scott, Arkansas",0.65103,0.91873997
+5129,"Searcy, Arkansas",0.70889002,0.95498002
+5131,"Sebastian, Arkansas",0.73863,1.11981
+5133,"Sevier, Arkansas",0.62248999,0.86552
+5135,"Sharp, Arkansas",0.70662999,0.96810001
+5137,"Stone, Arkansas",0.71987998,0.98632002
+5139,"Union, Arkansas",0.68690997,1.01439
+5141,"Van Buren, Arkansas",0.71042001,0.99912
+5143,"Washington, Arkansas",0.80754,1.33539
+5145,"White, Arkansas",0.79613,1.11584
+5147,"Woodruff, Arkansas",0.64192998,0.94415998
+5149,"Yell, Arkansas",0.63029999,0.94586998
+6000,"State average, California",0.807316488947368,1.33718508421053
+6001,"Alameda, California",0.91564,1.59354
+6003,"Alpine, California",NA,NA
+6005,"Amador, California",0.92817998,1.29491
+6007,"Butte, California",0.80008,1.29895
+6009,"Calaveras, California",0.92421001,1.31592
+6011,"Colusa, California",0.58380002,1.09368
+6013,"Contra Costa, California",0.88687998,1.53633
+6015,"Del Norte, California",0.63748002,1.05612
+6017,"El Dorado, California",1.01846,1.49199
+6019,"Fresno, California",0.57849997,1.19607
+6021,"Glenn, California",0.63274997,1.10436
+6023,"Humboldt, California",0.81883001,1.1390001
+6025,"Imperial, California",0.73171002,1.08608
+6027,"Inyo, California",0.79105997,1.37174
+6029,"Kern, California",0.6207,1.17506
+6031,"Kings, California",0.61815,1.16688
+6033,"Lake, California",0.65311998,1.12774
+6035,"Lassen, California",0.81195998,1.15399
+6037,"Los Angeles, California",0.73580003,1.51421
+6039,"Madera, California",0.56068999,1.12866
+6041,"Marin, California",0.81247997,1.65818
+6043,"Mariposa, California",0.95354998,1.4025199
+6045,"Mendocino, California",0.69420999,1.22495
+6047,"Merced, California",0.63156003,1.11006
+6049,"Modoc, California",0.66933,1.15229
+6051,"Mono, California",0.9637,1.5340101
+6053,"Monterey, California",0.61296999,1.32928
+6055,"Napa, California",0.80387002,1.49658
+6057,"Nevada, California",1.01335,1.5107501
+6059,"Orange, California",0.85553998,1.5257
+6061,"Placer, California",1.0711,1.506
+6063,"Plumas, California",0.89507997,1.28089
+6065,"Riverside, California",0.74834001,1.3152699
+6067,"Sacramento, California",0.81634998,1.40238
+6069,"San Benito, California",0.82344002,1.3744299
+6071,"San Bernardino, California",0.73532999,1.25359
+6073,"San Diego, California",0.90846002,1.49221
+6075,"San Francisco, California",1.31244,1.71507
+6077,"San Joaquin, California",0.72867,1.31733
+6079,"San Luis Obispo, California",0.93507999,1.5106
+6081,"San Mateo, California",1.16289,1.6349
+6083,"Santa Barbara, California",0.72433001,1.46104
+6085,"Santa Clara, California",1.15832,1.59632
+6087,"Santa Cruz, California",0.81641001,1.5647
+6089,"Shasta, California",0.79174,1.2743
+6091,"Sierra, California",1.03074,1.38345
+6093,"Siskiyou, California",0.74171001,1.2178299
+6095,"Solano, California",0.87462997,1.3875
+6097,"Sonoma, California",0.86228001,1.45605
+6099,"Stanislaus, California",0.74586999,1.2558399
+6101,"Sutter, California",0.71074998,1.18925
+6103,"Tehama, California",0.64851999,1.09175
+6105,"Trinity, California",0.73521,1.19478
+6107,"Tulare, California",0.54176003,1.09995
+6109,"Tuolumne, California",0.9109,1.3048
+6111,"Ventura, California",0.78140998,1.47826
+6113,"Yolo, California",0.81755,1.48822
+6115,"Yuba, California",0.72917002,1.18329
+8000,"State average, Colorado",0.95172585862069,1.40138292931034
+8001,"Adams, Colorado",0.81186002,1.40975
+8003,"Alamosa, Colorado",0.73189002,1.24898
+8005,"Arapahoe, Colorado",0.83072001,1.4582601
+8007,"Archuleta, Colorado",0.93331999,1.41012
+8009,"Baca, Colorado",0.88227999,1.23456
+8011,"Bent, Colorado",0.65877998,1.14546
+8013,"Boulder, Colorado",1.1075,1.62755
+8014,"Broomfield, Colorado",1.1688499,1.57539
+8015,"Chaffee, Colorado",1.09936,1.52696
+8017,"Cheyenne, Colorado",1.04763,1.38176
+8019,"Clear Creek, Colorado",1.0602601,1.4774899
+8021,"Conejos, Colorado",0.75433999,1.2043999
+8023,"Costilla, Colorado",NA,NA
+8025,"Crowley, Colorado",0.75880998,1.11947
+8027,"Custer, Colorado",1.0331399,1.3447
+8029,"Delta, Colorado",0.87716001,1.28578
+8031,"Denver, Colorado",0.90732002,1.6238101
+8033,"Dolores, Colorado",0.94189,1.34582
+8035,"Douglas, Colorado",1.3532701,1.6129301
+8037,"Eagle, Colorado",0.87858999,1.5617599
+8039,"Elbert, Colorado",1.15659,1.5168999
+8041,"El Paso, Colorado",0.96052998,1.39002
+8043,"Fremont, Colorado",0.87696999,1.25605
+8045,"Garfield, Colorado",0.80632001,1.41557
+8047,"Gilpin, Colorado",1.07927,1.48406
+8049,"Grand, Colorado",1.10788,1.51206
+8051,"Gunnison, Colorado",1.24836,1.57763
+8055,"Huerfano, Colorado",0.78763002,1.23163
+8057,"Jackson, Colorado",NA,NA
+8059,"Jefferson, Colorado",1.11146,1.57129
+8061,"Kiowa, Colorado",NA,NA
+8063,"Kit Carson, Colorado",0.95122999,1.3733799
+8065,"Lake, Colorado",0.88313001,1.4435101
+8067,"La Plata, Colorado",1.04206,1.50253
+8069,"Larimer, Colorado",1.123,1.56264
+8071,"Las Animas, Colorado",0.76256001,1.16049
+8073,"Lincoln, Colorado",0.96450001,1.35095
+8075,"Logan, Colorado",0.96489,1.37925
+8077,"Mesa, Colorado",0.91115999,1.34929
+8081,"Moffat, Colorado",0.88957,1.28009
+8083,"Montezuma, Colorado",0.74285001,1.28334
+8085,"Montrose, Colorado",0.82997,1.3192199
+8087,"Morgan, Colorado",0.81336999,1.2975301
+8089,"Otero, Colorado",0.71502,1.1745501
+8091,"Ouray, Colorado",1.2136199,1.58208
+8093,"Park, Colorado",1.15571,1.51992
+8095,"Phillips, Colorado",0.84065998,1.3868099
+8097,"Pitkin, Colorado",1.2436399,1.67658
+8099,"Prowers, Colorado",0.73517001,1.19997
+8101,"Pueblo, Colorado",0.73233002,1.13386
+8103,"Rio Blanco, Colorado",1.01608,1.33719
+8105,"Rio Grande, Colorado",0.76765001,1.27119
+8107,"Routt, Colorado",1.16202,1.60449
+8109,"Saguache, Colorado",0.76845998,1.27824
+8111,"San Juan, Colorado",NA,NA
+8113,"San Miguel, Colorado",1.2128,1.60798
+8115,"Sedgwick, Colorado",0.97241998,1.37503
+8117,"Summit, Colorado",1.00858,1.59058
+8119,"Teller, Colorado",1.04694,1.4160399
+8121,"Washington, Colorado",1.06846,1.42539
+8123,"Weld, Colorado",0.87436998,1.44752
+8125,"Yuma, Colorado",0.81590003,1.4004101
+9000,"State average, Connecticut",0.9486925025,1.53356
+9001,"Fairfield, Connecticut",0.70120001,1.5994101
+9003,"Hartford, Connecticut",0.77675003,1.52434
+9005,"Litchfield, Connecticut",1.08725,1.55814
+9007,"Middlesex, Connecticut",1.1066999,1.59001
+9009,"New Haven, Connecticut",0.79593003,1.51895
+9011,"New London, Connecticut",0.98711002,1.4703799
+9013,"Tolland, Connecticut",1.17711,1.59728
+9015,"Windham, Connecticut",0.95749003,1.40997
+10000,"State average, Delaware",0.78161331,1.31329996666667
+10001,"Kent, Delaware",0.79290998,1.23592
+10003,"New Castle, Delaware",0.83468997,1.42742
+10005,"Sussex, Delaware",0.71723998,1.2765599
+11000,"State average, District of Columbia",0.99615997,1.57856
+11001,"District of Columbia, District of Columbia",0.99615997,1.57856
+12000,"State average, Florida",0.664965222835821,1.16279805522388
+12001,"Alachua, Florida",0.81159002,1.39305
+12003,"Baker, Florida",0.66503,1.08509
+12005,"Bay, Florida",0.70344001,1.21644
+12007,"Bradford, Florida",0.61645001,1.02536
+12009,"Brevard, Florida",0.78833997,1.29075
+12011,"Broward, Florida",0.75189,1.34356
+12013,"Calhoun, Florida",0.58503997,0.97062999
+12015,"Charlotte, Florida",0.77934003,1.2286299
+12017,"Citrus, Florida",0.69256002,1.072
+12019,"Clay, Florida",0.79848999,1.2304
+12021,"Collier, Florida",0.65601999,1.33907
+12023,"Columbia, Florida",0.58517998,1.00112
+12027,"DeSoto, Florida",0.42908001,0.91399002
+12029,"Dixie, Florida",0.51828998,0.86501002
+12031,"Duval, Florida",0.67084002,1.27853
+12033,"Escambia, Florida",0.68265998,1.25748
+12035,"Flagler, Florida",0.82933998,1.22442
+12037,"Franklin, Florida",0.57659,1.03763
+12039,"Gadsden, Florida",0.41552001,0.97623998
+12041,"Gilchrist, Florida",0.62075001,1.00574
+12043,"Glades, Florida",0.50062001,0.95643997
+12045,"Gulf, Florida",0.66769999,1.16
+12047,"Hamilton, Florida",0.48493999,0.90658998
+12049,"Hardee, Florida",0.45475999,1.00467
+12051,"Hendry, Florida",0.43957999,0.92891002
+12053,"Hernando, Florida",0.73304999,1.11549
+12055,"Highlands, Florida",0.60219997,1.0338
+12057,"Hillsborough, Florida",0.67980999,1.32757
+12059,"Holmes, Florida",0.59316999,0.95639002
+12061,"Indian River, Florida",0.70945001,1.278
+12063,"Jackson, Florida",0.55905998,0.99044001
+12065,"Jefferson, Florida",0.61988997,1.25611
+12067,"Lafayette, Florida",0.56705999,0.96155
+12069,"Lake, Florida",0.73413002,1.24716
+12071,"Lee, Florida",0.67043,1.26503
+12073,"Leon, Florida",0.75659001,1.35253
+12075,"Levy, Florida",0.60833001,1.0633399
+12077,"Liberty, Florida",0.62063003,1.02698
+12079,"Madison, Florida",0.49355999,1.0115499
+12081,"Manatee, Florida",0.66821998,1.3313
+12083,"Marion, Florida",0.62976998,1.11139
+12085,"Martin, Florida",0.78965002,1.37323
+12086,"Miami-Dade, Florida",0.58605999,1.3271199
+12087,"Monroe, Florida",0.78771001,1.3287801
+12089,"Nassau, Florida",0.85834002,1.29924
+12091,"Okaloosa, Florida",0.83223999,1.30388
+12093,"Okeechobee, Florida",0.50796998,0.94537997
+12095,"Orange, Florida",0.74878001,1.34059
+12097,"Osceola, Florida",0.73128003,1.15826
+12099,"Palm Beach, Florida",0.68330997,1.3989
+12101,"Pasco, Florida",0.76490003,1.27438
+12103,"Pinellas, Florida",0.78494,1.37985
+12105,"Polk, Florida",0.61522001,1.1340899
+12107,"Putnam, Florida",0.49083999,0.97245002
+12109,"St. Johns, Florida",0.97408003,1.47067
+12111,"St. Lucie, Florida",0.66801,1.15508
+12113,"Santa Rosa, Florida",0.86142999,1.30284
+12115,"Sarasota, Florida",0.81924999,1.3497601
+12117,"Seminole, Florida",0.84119999,1.35168
+12119,"Sumter, Florida",0.66283,1.22109
+12121,"Suwannee, Florida",0.56638998,1.02194
+12123,"Taylor, Florida",0.53534001,0.94334
+12125,"Union, Florida",0.64183003,1.03301
+12127,"Volusia, Florida",0.72371,1.2061
+12129,"Wakulla, Florida",0.75171,1.1801701
+12131,"Walton, Florida",0.75123,1.3750499
+12133,"Washington, Florida",0.60503,1.02021
+13000,"State average, Georgia",0.607235743783784,1.09652905378378
+13001,"Appling, Georgia",0.50406998,0.94936001
+13003,"Atkinson, Georgia",0.44181001,0.83257997
+13005,"Bacon, Georgia",0.46742001,0.92497998
+13007,"Baker, Georgia",NA,NA
+13009,"Baldwin, Georgia",0.51651001,1.14465
+13011,"Banks, Georgia",0.73139,1.1649801
+13013,"Barrow, Georgia",0.77371001,1.23599
+13015,"Bartow, Georgia",0.73395997,1.21364
+13017,"Ben Hill, Georgia",0.42513999,0.90131998
+13019,"Berrien, Georgia",0.57459998,1.0258501
+13021,"Bibb, Georgia",0.48056999,1.14647
+13023,"Bleckley, Georgia",0.56774998,1.07205
+13025,"Brantley, Georgia",0.55225003,0.93462002
+13027,"Brooks, Georgia",0.46237001,1.0161099
+13029,"Bryan, Georgia",0.84745002,1.32638
+13031,"Bulloch, Georgia",0.67528999,1.1985101
+13033,"Burke, Georgia",0.49522001,1.07302
+13035,"Butts, Georgia",0.68724,1.0929
+13037,"Calhoun, Georgia",NA,NA
+13039,"Camden, Georgia",0.81356001,1.21663
+13043,"Candler, Georgia",0.54737997,1.05416
+13045,"Carroll, Georgia",0.70406002,1.18203
+13047,"Catoosa, Georgia",0.77608001,1.1982501
+13049,"Charlton, Georgia",0.59315997,0.96447998
+13051,"Chatham, Georgia",0.66373003,1.30003
+13053,"Chattahoochee, Georgia",0.95985001,1.29968
+13055,"Chattooga, Georgia",0.51730001,0.93760997
+13057,"Cherokee, Georgia",0.96524,1.4432
+13059,"Clarke, Georgia",0.74735999,1.4427299
+13061,"Clay, Georgia",NA,NA
+13063,"Clayton, Georgia",0.54623002,0.91400999
+13065,"Clinch, Georgia",0.44760001,0.90944999
+13067,"Cobb, Georgia",0.79141998,1.39261
+13069,"Coffee, Georgia",0.43913001,0.89820999
+13071,"Colquitt, Georgia",0.43972,1.02697
+13073,"Columbia, Georgia",0.84439999,1.30454
+13075,"Cook, Georgia",0.51209003,0.98250002
+13077,"Coweta, Georgia",0.79878002,1.35103
+13079,"Crawford, Georgia",0.55186999,0.94901001
+13081,"Crisp, Georgia",0.38777,0.9971
+13083,"Dade, Georgia",0.70831001,1.1136301
+13085,"Dawson, Georgia",0.93358999,1.36437
+13087,"Decatur, Georgia",0.43533999,1.02016
+13089,"DeKalb, Georgia",0.67078,1.40977
+13091,"Dodge, Georgia",0.50563997,0.95099002
+13093,"Dooly, Georgia",0.40094,0.96765
+13095,"Dougherty, Georgia",0.41666999,0.98702002
+13097,"Douglas, Georgia",0.70517999,1.09342
+13099,"Early, Georgia",0.37959999,1.0033799
+13101,"Echols, Georgia",NA,NA
+13103,"Effingham, Georgia",0.78047001,1.19321
+13105,"Elbert, Georgia",0.47905001,0.98255002
+13107,"Emanuel, Georgia",0.48594999,0.94881999
+13109,"Evans, Georgia",0.48333001,1.03055
+13111,"Fannin, Georgia",0.71499997,1.12307
+13113,"Fayette, Georgia",0.92997998,1.39619
+13115,"Floyd, Georgia",0.59062999,1.17518
+13117,"Forsyth, Georgia",1.04118,1.49553
+13119,"Franklin, Georgia",0.63177001,1.11156
+13121,"Fulton, Georgia",0.77526999,1.47033
+13123,"Gilmer, Georgia",0.64308,1.14693
+13125,"Glascock, Georgia",0.68391001,1.05086
+13127,"Glynn, Georgia",0.58587998,1.26618
+13129,"Gordon, Georgia",0.62281001,1.08384
+13131,"Grady, Georgia",0.47452,0.99567002
+13133,"Greene, Georgia",0.51841003,1.36093
+13135,"Gwinnett, Georgia",0.76938999,1.3338701
+13137,"Habersham, Georgia",0.68133998,1.16406
+13139,"Hall, Georgia",0.65626001,1.2604899
+13141,"Hancock, Georgia",NA,NA
+13143,"Haralson, Georgia",0.69749999,1.15466
+13145,"Harris, Georgia",0.78325999,1.25218
+13147,"Hart, Georgia",0.57889003,1.05577
+13149,"Heard, Georgia",0.66123003,1.03996
+13151,"Henry, Georgia",0.68510002,1.05827
+13153,"Houston, Georgia",0.65016001,1.1798
+13155,"Irwin, Georgia",0.51484001,0.96508998
+13157,"Jackson, Georgia",0.80273998,1.3068399
+13159,"Jasper, Georgia",0.66744,1.15583
+13161,"Jeff Davis, Georgia",0.47599,0.87494999
+13163,"Jefferson, Georgia",0.43592,1.0092
+13165,"Jenkins, Georgia",0.49079999,0.97741997
+13167,"Johnson, Georgia",0.48172,0.92615002
+13169,"Jones, Georgia",0.71539003,1.14437
+13171,"Lamar, Georgia",0.61382002,1.0615
+13173,"Lanier, Georgia",0.58043998,1.05251
+13175,"Laurens, Georgia",0.49801001,1.0166301
+13177,"Lee, Georgia",0.66077,1.09613
+13179,"Liberty, Georgia",0.70756,1.05255
+13181,"Lincoln, Georgia",0.67811,1.17893
+13183,"Long, Georgia",0.73553002,1.03601
+13185,"Lowndes, Georgia",0.61049002,1.17514
+13187,"Lumpkin, Georgia",0.88255,1.30337
+13189,"McDuffie, Georgia",0.48166999,1.0494699
+13191,"McIntosh, Georgia",0.56230003,1.04549
+13193,"Macon, Georgia",0.41894001,0.88657999
+13195,"Madison, Georgia",0.65618998,1.16416
+13197,"Marion, Georgia",0.53254998,0.97481
+13199,"Meriwether, Georgia",0.5438,1.0737
+13201,"Miller, Georgia",0.4876,0.97601998
+13205,"Mitchell, Georgia",0.41181999,0.89835
+13207,"Monroe, Georgia",0.64038998,1.18652
+13209,"Montgomery, Georgia",0.55312002,0.99471003
+13211,"Morgan, Georgia",0.65363002,1.21609
+13213,"Murray, Georgia",0.55356002,0.96263999
+13215,"Muscogee, Georgia",0.57656997,1.16287
+13217,"Newton, Georgia",0.63354999,1.05814
+13219,"Oconee, Georgia",0.98903,1.51238
+13221,"Oglethorpe, Georgia",0.64497,1.18385
+13223,"Paulding, Georgia",0.90148997,1.2735699
+13225,"Peach, Georgia",0.56546998,1.03879
+13227,"Pickens, Georgia",0.80698001,1.24603
+13229,"Pierce, Georgia",0.61289001,1.04098
+13231,"Pike, Georgia",0.73501003,1.13314
+13233,"Polk, Georgia",0.59742999,1.05778
+13235,"Pulaski, Georgia",0.60264999,1.1093301
+13237,"Putnam, Georgia",0.56972998,1.13928
+13239,"Quitman, Georgia",NA,NA
+13241,"Rabun, Georgia",0.70200998,1.22192
+13243,"Randolph, Georgia",0.41136,0.93015999
+13245,"Richmond, Georgia",0.53325999,1.14449
+13247,"Rockdale, Georgia",0.66245002,1.06761
+13249,"Schley, Georgia",0.64025003,1.1391799
+13251,"Screven, Georgia",0.57675999,1.04141
+13253,"Seminole, Georgia",0.49382001,0.97047001
+13255,"Spalding, Georgia",0.54765999,1.07329
+13257,"Stephens, Georgia",0.60609001,1.10876
+13259,"Stewart, Georgia",NA,NA
+13261,"Sumter, Georgia",0.41328999,1.0176899
+13263,"Talbot, Georgia",NA,NA
+13265,"Taliaferro, Georgia",NA,NA
+13267,"Tattnall, Georgia",0.51916999,0.96939999
+13269,"Taylor, Georgia",0.50997001,0.99848998
+13271,"Telfair, Georgia",0.45355001,0.85784
+13273,"Terrell, Georgia",0.34740999,0.96306002
+13275,"Thomas, Georgia",0.54233003,1.19297
+13277,"Tift, Georgia",0.49325001,1.0815901
+13279,"Toombs, Georgia",0.50645,0.98377001
+13281,"Towns, Georgia",0.75435001,1.15943
+13283,"Treutlen, Georgia",0.53789997,0.91184998
+13285,"Troup, Georgia",0.52875,1.09402
+13287,"Turner, Georgia",0.42993999,0.92294002
+13289,"Twiggs, Georgia",0.51507002,1.03837
+13291,"Union, Georgia",0.73474997,1.15558
+13293,"Upson, Georgia",0.52252001,1.00202
+13295,"Walker, Georgia",0.66544998,1.1615
+13297,"Walton, Georgia",0.77209002,1.23822
+13299,"Ware, Georgia",0.47767001,0.96433002
+13301,"Warren, Georgia",NA,NA
+13303,"Washington, Georgia",0.47859001,0.94274002
+13305,"Wayne, Georgia",0.57977998,0.99018002
+13307,"Webster, Georgia",NA,NA
+13309,"Wheeler, Georgia",0.48390001,0.92561001
+13311,"White, Georgia",0.80394,1.22517
+13313,"Whitfield, Georgia",0.55201,1.04853
+13315,"Wilcox, Georgia",0.47446001,0.84908998
+13317,"Wilkes, Georgia",0.52776003,1.02475
+13319,"Wilkinson, Georgia",0.55173999,0.97698998
+13321,"Worth, Georgia",0.49377999,0.91709
+15000,"State average, Hawaii",1.041254995,1.295692475
+15001,"Hawaii, Hawaii",0.89262998,1.27066
+15003,"Honolulu, Hawaii",1.12176,1.3344899
+15007,"Kauai, Hawaii",1.0647399,1.28591
+15009,"Maui, Hawaii",1.0858901,1.29171
+16000,"State average, Idaho",0.85207023952381,1.24585499761905
+16001,"Ada, Idaho",0.98964,1.43308
+16003,"Adams, Idaho",0.86124003,1.15955
+16005,"Bannock, Idaho",0.8642,1.30773
+16007,"Bear Lake, Idaho",0.98764998,1.2563
+16009,"Benewah, Idaho",0.69935,1.04009
+16011,"Bingham, Idaho",0.82173997,1.2812999
+16013,"Blaine, Idaho",0.91799998,1.55723
+16015,"Boise, Idaho",0.88226002,1.2186
+16017,"Bonner, Idaho",0.88963002,1.32444
+16019,"Bonneville, Idaho",0.90030003,1.36937
+16021,"Boundary, Idaho",0.83205003,1.19537
+16023,"Butte, Idaho",0.89429998,1.1764801
+16025,"Camas, Idaho",NA,NA
+16027,"Canyon, Idaho",0.77136999,1.25608
+16029,"Caribou, Idaho",0.98451,1.26364
+16031,"Cassia, Idaho",0.70995998,1.24983
+16035,"Clearwater, Idaho",0.72012001,1.14756
+16037,"Custer, Idaho",0.88988,1.2764
+16039,"Elmore, Idaho",0.87404001,1.24576
+16041,"Franklin, Idaho",1.01656,1.30699
+16043,"Fremont, Idaho",0.96243,1.2953
+16045,"Gem, Idaho",0.82819003,1.19866
+16047,"Gooding, Idaho",0.68133003,1.14078
+16049,"Idaho, Idaho",0.79925001,1.1556
+16051,"Jefferson, Idaho",1.0208,1.37756
+16053,"Jerome, Idaho",0.55858999,1.04493
+16055,"Kootenai, Idaho",0.9138,1.29725
+16057,"Latah, Idaho",1.07522,1.39624
+16059,"Lemhi, Idaho",0.89494997,1.25834
+16061,"Lewis, Idaho",0.79544002,1.12323
+16063,"Lincoln, Idaho",0.67234999,1.09588
+16065,"Madison, Idaho",1.28088,1.44485
+16067,"Minidoka, Idaho",0.66323,1.17865
+16069,"Nez Perce, Idaho",0.76748002,1.14518
+16071,"Oneida, Idaho",1.03951,1.31905
+16073,"Owyhee, Idaho",0.70852,1.13699
+16075,"Payette, Idaho",0.71708,1.11909
+16077,"Power, Idaho",0.64029002,1.1329499
+16079,"Shoshone, Idaho",0.72836,1.07335
+16081,"Teton, Idaho",1.02827,1.56319
+16083,"Twin Falls, Idaho",0.80756998,1.24516
+16085,"Valley, Idaho",0.94411999,1.37552
+16087,"Washington, Idaho",0.75248998,1.14236
+17000,"State average, Illinois",0.840682154019608,1.29264911852941
+17001,"Adams, Illinois",0.84658998,1.35137
+17003,"Alexander, Illinois",0.60172999,0.97444999
+17005,"Bond, Illinois",0.87770998,1.31148
+17007,"Boone, Illinois",0.80488002,1.30809
+17009,"Brown, Illinois",0.86974001,1.27309
+17011,"Bureau, Illinois",0.87740999,1.30079
+17013,"Calhoun, Illinois",0.99957001,1.36438
+17015,"Carroll, Illinois",0.87941998,1.23808
+17017,"Cass, Illinois",0.59776002,1.13692
+17019,"Champaign, Illinois",0.91205001,1.4834
+17021,"Christian, Illinois",0.81603003,1.21446
+17023,"Clark, Illinois",0.86019999,1.2712801
+17025,"Clay, Illinois",0.80944997,1.19127
+17027,"Clinton, Illinois",1.05951,1.42285
+17029,"Coles, Illinois",0.81581002,1.31446
+17031,"Cook, Illinois",0.75869,1.4921
+17033,"Crawford, Illinois",0.88082999,1.26222
+17035,"Cumberland, Illinois",0.86751997,1.23658
+17037,"DeKalb, Illinois",0.96710002,1.46456
+17039,"De Witt, Illinois",0.89556998,1.34934
+17041,"Douglas, Illinois",0.89494997,1.3314199
+17043,"DuPage, Illinois",1.03581,1.57767
+17045,"Edgar, Illinois",0.74488002,1.22232
+17047,"Edwards, Illinois",0.86596,1.2497
+17049,"Effingham, Illinois",0.88552999,1.33164
+17051,"Fayette, Illinois",0.73540002,1.16827
+17053,"Ford, Illinois",0.92458999,1.37287
+17055,"Franklin, Illinois",0.71328998,1.11115
+17057,"Fulton, Illinois",0.80118001,1.22034
+17059,"Gallatin, Illinois",0.74414998,1.14749
+17061,"Greene, Illinois",0.82710999,1.21166
+17063,"Grundy, Illinois",1.0577199,1.44436
+17065,"Hamilton, Illinois",0.82358003,1.15266
+17067,"Hancock, Illinois",0.91314,1.32057
+17069,"Hardin, Illinois",0.71897,1.0124201
+17071,"Henderson, Illinois",0.85506999,1.21473
+17073,"Henry, Illinois",0.87853003,1.37184
+17075,"Iroquois, Illinois",0.86128998,1.30472
+17077,"Jackson, Illinois",0.81449002,1.29241
+17079,"Jasper, Illinois",0.86857998,1.28848
+17081,"Jefferson, Illinois",0.71473998,1.15002
+17083,"Jersey, Illinois",0.90250999,1.32959
+17085,"Jo Daviess, Illinois",1.01666,1.39735
+17087,"Johnson, Illinois",0.84772998,1.19968
+17089,"Kane, Illinois",0.81374002,1.49465
+17091,"Kankakee, Illinois",0.81575,1.36412
+17093,"Kendall, Illinois",0.97558999,1.4829
+17095,"Knox, Illinois",0.74163997,1.2546099
+17097,"Lake, Illinois",0.79540002,1.5417399
+17099,"LaSalle, Illinois",0.88068002,1.32285
+17101,"Lawrence, Illinois",0.77241999,1.1764801
+17103,"Lee, Illinois",0.89144999,1.30118
+17105,"Livingston, Illinois",0.88341999,1.32529
+17107,"Logan, Illinois",0.84324002,1.2874
+17109,"McDonough, Illinois",0.87976003,1.33294
+17111,"McHenry, Illinois",1.0315599,1.49582
+17113,"McLean, Illinois",0.96234,1.47892
+17115,"Macon, Illinois",0.67282999,1.28172
+17117,"Macoupin, Illinois",0.8581,1.27161
+17119,"Madison, Illinois",0.80873001,1.37503
+17121,"Marion, Illinois",0.69865,1.13116
+17123,"Marshall, Illinois",0.90486002,1.3212301
+17125,"Mason, Illinois",0.82437003,1.2417001
+17127,"Massac, Illinois",0.80937999,1.2037899
+17129,"Menard, Illinois",0.91246998,1.33349
+17131,"Mercer, Illinois",0.92795002,1.33437
+17133,"Monroe, Illinois",1.13726,1.5077699
+17135,"Montgomery, Illinois",0.80458999,1.25467
+17137,"Morgan, Illinois",0.74520999,1.28984
+17139,"Moultrie, Illinois",0.88616002,1.29865
+17141,"Ogle, Illinois",0.92101002,1.34961
+17143,"Peoria, Illinois",0.70376998,1.4009
+17145,"Perry, Illinois",0.78083003,1.19396
+17147,"Piatt, Illinois",1.01722,1.45547
+17149,"Pike, Illinois",0.82776999,1.23333
+17151,"Pope, Illinois",0.80373001,1.1588
+17153,"Pulaski, Illinois",0.64888,1.0383101
+17155,"Putnam, Illinois",0.93984997,1.31828
+17157,"Randolph, Illinois",0.80009001,1.24022
+17159,"Richland, Illinois",0.81281,1.22242
+17161,"Rock Island, Illinois",0.74805999,1.3168
+17163,"St. Clair, Illinois",0.70964003,1.34079
+17165,"Saline, Illinois",0.69823998,1.14215
+17167,"Sangamon, Illinois",0.77772999,1.38753
+17169,"Schuyler, Illinois",0.83855999,1.2402101
+17171,"Scott, Illinois",0.85881001,1.21733
+17173,"Shelby, Illinois",0.88202,1.27389
+17175,"Stark, Illinois",0.92452002,1.3246
+17177,"Stephenson, Illinois",0.77122998,1.25831
+17179,"Tazewell, Illinois",0.89353001,1.4189399
+17181,"Union, Illinois",0.73984998,1.1545
+17183,"Vermilion, Illinois",0.63591999,1.15567
+17185,"Wabash, Illinois",0.85715997,1.2239799
+17187,"Warren, Illinois",0.74355,1.28415
+17189,"Washington, Illinois",0.92009997,1.29357
+17191,"Wayne, Illinois",0.79851002,1.2035201
+17193,"White, Illinois",0.76433003,1.19792
+17195,"Whiteside, Illinois",0.80208999,1.2349499
+17197,"Will, Illinois",0.88901001,1.48598
+17199,"Williamson, Illinois",0.76560998,1.21905
+17201,"Winnebago, Illinois",0.69253999,1.30238
+17203,"Woodford, Illinois",1.06163,1.4742301
+18000,"State average, Indiana",0.823437385434783,1.26450586847826
+18001,"Adams, Indiana",0.88123,1.31402
+18003,"Allen, Indiana",0.76571,1.32177
+18005,"Bartholomew, Indiana",0.82498997,1.37418
+18007,"Benton, Indiana",0.85102999,1.29418
+18009,"Blackford, Indiana",0.73729998,1.12283
+18011,"Boone, Indiana",0.98833001,1.5347199
+18013,"Brown, Indiana",0.84320003,1.2531199
+18015,"Carroll, Indiana",0.89156002,1.26807
+18017,"Cass, Indiana",0.64837998,1.16589
+18019,"Clark, Indiana",0.82122999,1.31036
+18021,"Clay, Indiana",0.7888,1.21937
+18023,"Clinton, Indiana",0.70153999,1.21956
+18025,"Crawford, Indiana",0.77706999,1.1637
+18027,"Daviess, Indiana",0.73146999,1.26685
+18029,"Dearborn, Indiana",0.94990999,1.34326
+18031,"Decatur, Indiana",0.86707002,1.30124
+18033,"DeKalb, Indiana",0.85146999,1.26361
+18035,"Delaware, Indiana",0.75151998,1.2431099
+18037,"Dubois, Indiana",0.88872999,1.42083
+18039,"Elkhart, Indiana",0.68068999,1.2465301
+18041,"Fayette, Indiana",0.69010001,1.09267
+18043,"Floyd, Indiana",0.89868999,1.40207
+18045,"Fountain, Indiana",0.84794003,1.26394
+18047,"Franklin, Indiana",0.89889997,1.28155
+18049,"Fulton, Indiana",0.78792,1.20719
+18051,"Gibson, Indiana",0.86931002,1.25252
+18053,"Grant, Indiana",0.63485998,1.20114
+18055,"Greene, Indiana",0.80587,1.23203
+18057,"Hamilton, Indiana",1.1047699,1.55191
+18059,"Hancock, Indiana",0.97965997,1.41395
+18061,"Harrison, Indiana",0.90402001,1.30158
+18063,"Hendricks, Indiana",0.92931998,1.41426
+18065,"Henry, Indiana",0.76604998,1.1785901
+18067,"Howard, Indiana",0.77929997,1.25169
+18069,"Huntington, Indiana",0.80271,1.27377
+18071,"Jackson, Indiana",0.67777997,1.2174799
+18073,"Jasper, Indiana",0.88543999,1.27894
+18075,"Jay, Indiana",0.70731997,1.13327
+18077,"Jefferson, Indiana",0.80694997,1.2648
+18079,"Jennings, Indiana",0.74383998,1.15838
+18081,"Johnson, Indiana",0.90367001,1.38086
+18083,"Knox, Indiana",0.77276999,1.25809
+18085,"Kosciusko, Indiana",0.82953,1.30966
+18087,"LaGrange, Indiana",0.80260998,1.1886899
+18089,"Lake, Indiana",0.73655999,1.2819
+18091,"LaPorte, Indiana",0.7274,1.20025
+18093,"Lawrence, Indiana",0.76993001,1.20269
+18095,"Madison, Indiana",0.70077997,1.2361
+18097,"Marion, Indiana",0.64282,1.34135
+18099,"Marshall, Indiana",0.79961002,1.25089
+18101,"Martin, Indiana",0.90463001,1.267
+18103,"Miami, Indiana",0.72579002,1.14284
+18105,"Monroe, Indiana",1.02991,1.4756
+18107,"Montgomery, Indiana",0.82707,1.26452
+18109,"Morgan, Indiana",0.88023001,1.2812001
+18111,"Newton, Indiana",0.8114,1.20446
+18113,"Noble, Indiana",0.74302,1.17937
+18115,"Ohio, Indiana",0.89984,1.22659
+18117,"Orange, Indiana",0.78084999,1.17852
+18119,"Owen, Indiana",0.78828001,1.17349
+18121,"Parke, Indiana",0.82599002,1.21121
+18123,"Perry, Indiana",0.88709998,1.25776
+18125,"Pike, Indiana",0.84871,1.2176501
+18127,"Porter, Indiana",0.91794997,1.32955
+18129,"Posey, Indiana",0.88253999,1.3171
+18131,"Pulaski, Indiana",0.83494002,1.23002
+18133,"Putnam, Indiana",0.91301,1.2888
+18135,"Randolph, Indiana",0.72804999,1.13954
+18137,"Ripley, Indiana",0.96222001,1.35855
+18139,"Rush, Indiana",0.85039997,1.2436399
+18141,"St. Joseph, Indiana",0.73885,1.34554
+18143,"Scott, Indiana",0.73525,1.14362
+18145,"Shelby, Indiana",0.80817997,1.25481
+18147,"Spencer, Indiana",0.92299002,1.3163199
+18149,"Starke, Indiana",0.79974997,1.13282
+18151,"Steuben, Indiana",0.80950999,1.24391
+18153,"Sullivan, Indiana",0.82416999,1.21545
+18155,"Switzerland, Indiana",0.89344001,1.2088701
+18157,"Tippecanoe, Indiana",0.88608998,1.40447
+18159,"Tipton, Indiana",0.93202001,1.33029
+18161,"Union, Indiana",0.90530998,1.24844
+18163,"Vanderburgh, Indiana",0.79108,1.33337
+18165,"Vermillion, Indiana",0.81395,1.18549
+18167,"Vigo, Indiana",0.75757998,1.26702
+18169,"Wabash, Indiana",0.77568001,1.25372
+18171,"Warren, Indiana",0.84447998,1.21992
+18173,"Warrick, Indiana",0.96556002,1.37137
+18175,"Washington, Indiana",0.81598002,1.19637
+18177,"Wayne, Indiana",0.68084002,1.1638
+18179,"Wells, Indiana",0.83754998,1.28441
+18181,"White, Indiana",0.79141998,1.24859
+18183,"Whitley, Indiana",0.93697,1.3091201
+19000,"State average, Iowa",0.984453845656566,1.42295434444444
+19001,"Adair, Iowa",1.04217,1.41673
+19003,"Adams, Iowa",0.99168003,1.40809
+19005,"Allamakee, Iowa",0.95157999,1.41794
+19007,"Appanoose, Iowa",0.83076,1.22616
+19009,"Audubon, Iowa",1.0862499,1.47972
+19011,"Benton, Iowa",1.12208,1.48571
+19013,"Black Hawk, Iowa",0.84346002,1.4775701
+19015,"Boone, Iowa",1.105,1.48273
+19017,"Bremer, Iowa",1.1985101,1.53346
+19019,"Buchanan, Iowa",1.12161,1.48045
+19021,"Buena Vista, Iowa",0.61985999,1.3526599
+19023,"Butler, Iowa",1.15878,1.46735
+19025,"Calhoun, Iowa",1.0970401,1.43874
+19027,"Carroll, Iowa",1.1022201,1.51215
+19029,"Cass, Iowa",0.91459,1.40316
+19031,"Cedar, Iowa",1.12602,1.47216
+19033,"Cerro Gordo, Iowa",0.93401003,1.4216599
+19035,"Cherokee, Iowa",1.06761,1.46536
+19037,"Chickasaw, Iowa",1.0524,1.4259501
+19039,"Clarke, Iowa",0.78982002,1.25432
+19041,"Clay, Iowa",0.96508002,1.42081
+19043,"Clayton, Iowa",1.11678,1.42515
+19045,"Clinton, Iowa",0.85602999,1.33531
+19047,"Crawford, Iowa",0.70107001,1.34447
+19049,"Dallas, Iowa",1.05221,1.57988
+19051,"Davis, Iowa",0.95643997,1.31036
+19053,"Decatur, Iowa",0.97814,1.34315
+19055,"Delaware, Iowa",1.10604,1.48777
+19057,"Des Moines, Iowa",0.82726002,1.31927
+19059,"Dickinson, Iowa",1.1104701,1.49974
+19061,"Dubuque, Iowa",1.01527,1.50029
+19063,"Emmet, Iowa",0.91679001,1.37455
+19065,"Fayette, Iowa",0.99362999,1.40056
+19067,"Floyd, Iowa",0.96565998,1.4008501
+19069,"Franklin, Iowa",0.81181997,1.38158
+19071,"Fremont, Iowa",0.98953998,1.37148
+19073,"Greene, Iowa",1.02468,1.42242
+19075,"Grundy, Iowa",1.1821001,1.52992
+19077,"Guthrie, Iowa",1.09542,1.47627
+19079,"Hamilton, Iowa",0.87664002,1.42822
+19081,"Hancock, Iowa",1.02168,1.4390399
+19083,"Hardin, Iowa",1.0229501,1.4324501
+19085,"Harrison, Iowa",1.09229,1.43256
+19087,"Henry, Iowa",0.93019003,1.36353
+19089,"Howard, Iowa",1.07022,1.43743
+19091,"Humboldt, Iowa",1.03614,1.46637
+19093,"Ida, Iowa",1.06471,1.4608999
+19095,"Iowa, Iowa",1.10716,1.5166399
+19097,"Jackson, Iowa",1.00366,1.4098001
+19099,"Jasper, Iowa",0.97178,1.40773
+19101,"Jefferson, Iowa",0.99169999,1.35737
+19103,"Johnson, Iowa",1.09649,1.59433
+19105,"Jones, Iowa",1.0578001,1.4650199
+19107,"Keokuk, Iowa",0.96718001,1.35427
+19109,"Kossuth, Iowa",1.01635,1.46427
+19111,"Lee, Iowa",0.79536003,1.26157
+19113,"Linn, Iowa",1.00389,1.5095
+19115,"Louisa, Iowa",0.82337999,1.32649
+19117,"Lucas, Iowa",0.91488999,1.28475
+19119,"Lyon, Iowa",1.16634,1.54166
+19121,"Madison, Iowa",1.16129,1.49309
+19123,"Mahaska, Iowa",0.96131998,1.39921
+19125,"Marion, Iowa",1.0699,1.4882801
+19127,"Marshall, Iowa",0.70670003,1.32974
+19129,"Mills, Iowa",1.09574,1.45555
+19131,"Mitchell, Iowa",1.13223,1.46751
+19133,"Monona, Iowa",1.00617,1.38178
+19135,"Monroe, Iowa",0.97517002,1.34171
+19137,"Montgomery, Iowa",0.90561002,1.33672
+19139,"Muscatine, Iowa",0.81383002,1.35033
+19141,"O'Brien, Iowa",1.0548,1.4900399
+19143,"Osceola, Iowa",0.94143999,1.4826
+19145,"Page, Iowa",0.96125001,1.36984
+19147,"Palo Alto, Iowa",1.0679801,1.43506
+19149,"Plymouth, Iowa",1.04109,1.50438
+19151,"Pocahontas, Iowa",0.91883999,1.43813
+19153,"Polk, Iowa",0.86509001,1.5317301
+19155,"Pottawattamie, Iowa",0.82823998,1.39282
+19157,"Poweshiek, Iowa",1.02074,1.46582
+19159,"Ringgold, Iowa",0.99833,1.36471
+19161,"Sac, Iowa",0.92429,1.44178
+19163,"Scott, Iowa",0.84495997,1.4416699
+19165,"Shelby, Iowa",1.04129,1.4854701
+19167,"Sioux, Iowa",0.98806,1.57658
+19169,"Story, Iowa",1.1839,1.57066
+19171,"Tama, Iowa",0.88661999,1.37349
+19173,"Taylor, Iowa",0.92896003,1.37825
+19175,"Union, Iowa",0.89901,1.33825
+19177,"Van Buren, Iowa",0.91786999,1.2333601
+19179,"Wapello, Iowa",0.71122998,1.20978
+19181,"Warren, Iowa",1.11465,1.52408
+19183,"Washington, Iowa",1.02451,1.46652
+19185,"Wayne, Iowa",0.94835001,1.25792
+19187,"Webster, Iowa",0.87379003,1.38019
+19189,"Winnebago, Iowa",1.0075999,1.46102
+19191,"Winneshiek, Iowa",1.2157,1.53627
+19193,"Woodbury, Iowa",0.77585,1.39147
+19195,"Worth, Iowa",1.03399,1.4069
+19197,"Wright, Iowa",0.76385999,1.37997
+20000,"State average, Kansas",0.940319521634615,1.35806654038462
+20001,"Allen, Kansas",0.77282,1.24413
+20003,"Anderson, Kansas",0.96709001,1.29926
+20005,"Atchison, Kansas",0.91580999,1.38866
+20007,"Barber, Kansas",1.00301,1.38146
+20009,"Barton, Kansas",0.83504999,1.33391
+20011,"Bourbon, Kansas",0.81825,1.24277
+20013,"Brown, Kansas",0.88506001,1.39566
+20015,"Butler, Kansas",0.9878,1.42247
+20017,"Chase, Kansas",0.98408002,1.37893
+20019,"Chautauqua, Kansas",0.82738,1.19947
+20021,"Cherokee, Kansas",0.80658001,1.2311
+20023,"Cheyenne, Kansas",0.99049002,1.38989
+20025,"Clark, Kansas",1.10186,1.47826
+20027,"Clay, Kansas",0.97689998,1.35666
+20029,"Cloud, Kansas",0.94858998,1.33324
+20031,"Coffey, Kansas",1.0122,1.37939
+20033,"Comanche, Kansas",1.11961,1.35755
+20035,"Cowley, Kansas",0.79356998,1.2706
+20037,"Crawford, Kansas",0.84542,1.35449
+20039,"Decatur, Kansas",0.94524002,1.35798
+20041,"Dickinson, Kansas",0.96974999,1.33303
+20043,"Doniphan, Kansas",0.97083998,1.40089
+20045,"Douglas, Kansas",1.08681,1.53799
+20047,"Edwards, Kansas",0.85889,1.30124
+20049,"Elk, Kansas",0.91036999,1.2605799
+20051,"Ellis, Kansas",1.10554,1.43604
+20053,"Ellsworth, Kansas",0.95778,1.3635
+20055,"Finney, Kansas",0.69670999,1.2126
+20057,"Ford, Kansas",0.60279,1.16677
+20059,"Franklin, Kansas",0.96956998,1.339
+20061,"Geary, Kansas",0.87906998,1.18466
+20063,"Gove, Kansas",1.12533,1.3698699
+20065,"Graham, Kansas",1.01243,1.35987
+20067,"Grant, Kansas",0.71670002,1.24897
+20069,"Gray, Kansas",1.03863,1.43314
+20071,"Greeley, Kansas",NA,NA
+20073,"Greenwood, Kansas",0.93081999,1.2937599
+20075,"Hamilton, Kansas",0.63841999,1.24756
+20077,"Harper, Kansas",0.92580998,1.3434
+20079,"Harvey, Kansas",0.90732002,1.40846
+20081,"Haskell, Kansas",0.89012998,1.34579
+20083,"Hodgeman, Kansas",1.13598,1.4636
+20085,"Jackson, Kansas",0.99778998,1.39398
+20087,"Jefferson, Kansas",1.10123,1.41523
+20089,"Jewell, Kansas",0.95844001,1.31109
+20091,"Johnson, Kansas",1.0613101,1.60448
+20093,"Kearny, Kansas",0.82278001,1.30803
+20095,"Kingman, Kansas",0.98304999,1.37858
+20097,"Kiowa, Kansas",1.12808,1.45479
+20099,"Labette, Kansas",0.78236997,1.22068
+20101,"Lane, Kansas",0.94128001,1.3875901
+20103,"Leavenworth, Kansas",0.97672999,1.43594
+20105,"Lincoln, Kansas",0.97731,1.34544
+20107,"Linn, Kansas",0.94910002,1.3302
+20109,"Logan, Kansas",0.99975002,1.40657
+20111,"Lyon, Kansas",0.85102999,1.35537
+20113,"McPherson, Kansas",1.04287,1.4383399
+20115,"Marion, Kansas",1.00951,1.43961
+20117,"Marshall, Kansas",1.00089,1.44418
+20119,"Meade, Kansas",0.94835001,1.43338
+20121,"Miami, Kansas",1.05277,1.43441
+20123,"Mitchell, Kansas",1.06715,1.41615
+20125,"Montgomery, Kansas",0.74839002,1.23072
+20127,"Morris, Kansas",1.02764,1.41012
+20129,"Morton, Kansas",0.88933998,1.24032
+20131,"Nemaha, Kansas",1.07207,1.52536
+20133,"Neosho, Kansas",0.81098002,1.26732
+20135,"Ness, Kansas",0.99545002,1.38243
+20137,"Norton, Kansas",0.94418001,1.30653
+20139,"Osage, Kansas",1.00543,1.34605
+20141,"Osborne, Kansas",0.97916001,1.37999
+20143,"Ottawa, Kansas",1.00792,1.33687
+20145,"Pawnee, Kansas",0.95029998,1.30093
+20147,"Phillips, Kansas",1.03273,1.35289
+20149,"Pottawatomie, Kansas",1.10542,1.46622
+20151,"Pratt, Kansas",0.94848001,1.4157
+20153,"Rawlins, Kansas",0.98821002,1.40512
+20155,"Reno, Kansas",0.86844999,1.3503
+20157,"Republic, Kansas",1.0118001,1.3843
+20159,"Rice, Kansas",0.90935999,1.37637
+20161,"Riley, Kansas",1.11905,1.50483
+20163,"Rooks, Kansas",1.04843,1.34597
+20165,"Rush, Kansas",1.04391,1.36845
+20167,"Russell, Kansas",0.93883997,1.3606
+20169,"Saline, Kansas",0.83788002,1.3619601
+20171,"Scott, Kansas",0.85899001,1.39326
+20173,"Sedgwick, Kansas",0.79304999,1.40899
+20175,"Seward, Kansas",0.59332001,1.06906
+20177,"Shawnee, Kansas",0.84419,1.41023
+20179,"Sheridan, Kansas",1.06972,1.39827
+20181,"Sherman, Kansas",0.95433003,1.37046
+20183,"Smith, Kansas",1.0340101,1.35026
+20185,"Stafford, Kansas",0.91416001,1.38788
+20187,"Stanton, Kansas",0.74300998,1.2876
+20189,"Stevens, Kansas",0.78669,1.32619
+20191,"Sumner, Kansas",0.94945002,1.3315901
+20193,"Thomas, Kansas",1.00006,1.38639
+20195,"Trego, Kansas",1.04883,1.4236701
+20197,"Wabaunsee, Kansas",1.10539,1.40876
+20199,"Wallace, Kansas",1.1349699,1.41184
+20201,"Washington, Kansas",1.07432,1.43828
+20203,"Wichita, Kansas",0.80993003,1.41675
+20205,"Wilson, Kansas",0.77942002,1.2208101
+20207,"Woodson, Kansas",0.89772999,1.27321
+20209,"Wyandotte, Kansas",0.59995002,1.3054301
+21000,"State average, Kentucky",0.82515883525,1.15583591341667
+21001,"Adair, Kentucky",0.82176,1.1287
+21003,"Allen, Kentucky",0.79587001,1.1441801
+21005,"Anderson, Kentucky",0.97829998,1.30205
+21007,"Ballard, Kentucky",0.91286999,1.23941
+21009,"Barren, Kentucky",0.79999,1.16896
+21011,"Bath, Kentucky",0.82356,1.12731
+21013,"Bell, Kentucky",0.54250002,0.81682003
+21015,"Boone, Kentucky",0.94,1.40441
+21017,"Bourbon, Kentucky",0.85073,1.2565
+21019,"Boyd, Kentucky",0.84201002,1.18883
+21021,"Boyle, Kentucky",0.87402999,1.30196
+21023,"Bracken, Kentucky",0.97544998,1.20684
+21025,"Breathitt, Kentucky",0.65075999,0.94007999
+21027,"Breckinridge, Kentucky",0.92708999,1.18229
+21029,"Bullitt, Kentucky",0.93434,1.29442
+21031,"Butler, Kentucky",0.81712002,1.15573
+21033,"Caldwell, Kentucky",0.91578001,1.21916
+21035,"Calloway, Kentucky",0.96552002,1.38595
+21037,"Campbell, Kentucky",0.97575003,1.46746
+21039,"Carlisle, Kentucky",0.95319998,1.301
+21041,"Carroll, Kentucky",0.74715,1.11272
+21043,"Carter, Kentucky",0.77390999,1.07926
+21045,"Casey, Kentucky",0.74149001,1.05119
+21047,"Christian, Kentucky",0.74645001,1.13144
+21049,"Clark, Kentucky",0.82292998,1.24055
+21051,"Clay, Kentucky",0.56465,0.89466
+21053,"Clinton, Kentucky",0.64265001,0.96188998
+21055,"Crittenden, Kentucky",0.88957,1.17814
+21057,"Cumberland, Kentucky",0.74738002,1.03108
+21059,"Daviess, Kentucky",0.88028002,1.28887
+21061,"Edmonson, Kentucky",0.91134,1.15702
+21063,"Elliott, Kentucky",0.77030998,1.02939
+21065,"Estill, Kentucky",0.76797998,1.0693099
+21067,"Fayette, Kentucky",0.85557002,1.45638
+21069,"Fleming, Kentucky",0.89704001,1.1938699
+21071,"Floyd, Kentucky",0.70181,0.94999999
+21073,"Franklin, Kentucky",0.87993002,1.29094
+21075,"Fulton, Kentucky",0.65978003,1.0691299
+21077,"Gallatin, Kentucky",0.81849003,1.15051
+21079,"Garrard, Kentucky",0.86457998,1.20605
+21081,"Grant, Kentucky",0.87752002,1.21102
+21083,"Graves, Kentucky",0.87553,1.31372
+21085,"Grayson, Kentucky",0.89462,1.13099
+21087,"Green, Kentucky",0.85987997,1.15792
+21089,"Greenup, Kentucky",0.88020998,1.1804399
+21091,"Hancock, Kentucky",0.96610999,1.23121
+21093,"Hardin, Kentucky",0.89464998,1.22519
+21095,"Harlan, Kentucky",0.53648001,0.74479002
+21097,"Harrison, Kentucky",0.91892999,1.24933
+21099,"Hart, Kentucky",0.79969001,1.0615799
+21101,"Henderson, Kentucky",0.75729001,1.15529
+21103,"Henry, Kentucky",0.92777997,1.29386
+21105,"Hickman, Kentucky",0.83769,1.22247
+21107,"Hopkins, Kentucky",0.83636999,1.17132
+21109,"Jackson, Kentucky",0.74194998,0.97367001
+21111,"Jefferson, Kentucky",0.72134,1.41228
+21113,"Jessamine, Kentucky",0.89270002,1.40736
+21115,"Johnson, Kentucky",0.80589998,1.0539401
+21117,"Kenton, Kentucky",0.83428001,1.42374
+21119,"Knott, Kentucky",0.64696002,0.92526001
+21121,"Knox, Kentucky",0.72356999,0.95703
+21123,"Larue, Kentucky",0.93555999,1.22735
+21125,"Laurel, Kentucky",0.75147003,1.04198
+21127,"Lawrence, Kentucky",0.75506997,1.02411
+21129,"Lee, Kentucky",0.69847,1.00093
+21131,"Leslie, Kentucky",0.65744001,0.85887998
+21133,"Letcher, Kentucky",0.67493999,0.88362002
+21135,"Lewis, Kentucky",0.80271,1.0645601
+21137,"Lincoln, Kentucky",0.7888,1.09349
+21139,"Livingston, Kentucky",0.90083998,1.22604
+21141,"Logan, Kentucky",0.86803001,1.2215199
+21143,"Lyon, Kentucky",0.96608001,1.29128
+21145,"McCracken, Kentucky",0.88722003,1.34364
+21147,"McCreary, Kentucky",0.57334,0.70815998
+21149,"McLean, Kentucky",0.89047998,1.19087
+21151,"Madison, Kentucky",0.88881999,1.28289
+21153,"Magoffin, Kentucky",0.82762998,1.0157599
+21155,"Marion, Kentucky",0.87061,1.16746
+21157,"Marshall, Kentucky",0.98979998,1.35597
+21159,"Martin, Kentucky",0.68879002,0.89060998
+21161,"Mason, Kentucky",0.88572001,1.18554
+21163,"Meade, Kentucky",0.92645001,1.22272
+21165,"Menifee, Kentucky",0.76712,1.0351599
+21167,"Mercer, Kentucky",0.91907001,1.24615
+21169,"Metcalfe, Kentucky",0.78821999,1.01571
+21171,"Monroe, Kentucky",0.74926001,1.07744
+21173,"Montgomery, Kentucky",0.84895003,1.18309
+21175,"Morgan, Kentucky",0.83109999,1.10826
+21177,"Muhlenberg, Kentucky",0.86758,1.14695
+21179,"Nelson, Kentucky",1.00158,1.30564
+21181,"Nicholas, Kentucky",0.87217999,1.1656801
+21183,"Ohio, Kentucky",0.83546001,1.12263
+21185,"Oldham, Kentucky",1.06872,1.5309401
+21187,"Owen, Kentucky",0.86804003,1.21047
+21189,"Owsley, Kentucky",0.70379001,0.89990002
+21191,"Pendleton, Kentucky",0.92027003,1.21612
+21193,"Perry, Kentucky",0.68518001,0.91215998
+21195,"Pike, Kentucky",0.73913002,1.02441
+21197,"Powell, Kentucky",0.78012002,1.01135
+21199,"Pulaski, Kentucky",0.77807999,1.11261
+21201,"Robertson, Kentucky",0.92444003,1.18259
+21203,"Rockcastle, Kentucky",0.77204001,1.05834
+21205,"Rowan, Kentucky",0.86527002,1.2194999
+21207,"Russell, Kentucky",0.75591999,1.09022
+21209,"Scott, Kentucky",0.83482999,1.32003
+21211,"Shelby, Kentucky",0.88164997,1.35223
+21213,"Simpson, Kentucky",0.84390002,1.21732
+21215,"Spencer, Kentucky",1.01521,1.3850501
+21217,"Taylor, Kentucky",0.85095,1.22365
+21219,"Todd, Kentucky",0.78096002,1.14949
+21221,"Trigg, Kentucky",0.86887997,1.1720999
+21223,"Trimble, Kentucky",0.83837998,1.16283
+21225,"Union, Kentucky",0.82699001,1.15324
+21227,"Warren, Kentucky",0.84693998,1.31556
+21229,"Washington, Kentucky",0.86001003,1.2296
+21231,"Wayne, Kentucky",0.64111,0.94594002
+21233,"Webster, Kentucky",0.79433,1.1176
+21235,"Whitley, Kentucky",0.74387002,1.0395
+21237,"Wolfe, Kentucky",0.66793001,1.01986
+21239,"Woodford, Kentucky",0.94396001,1.44674
+22000,"State average, Louisiana",0.699571586825397,1.15919349063492
+22001,"Acadia, Louisiana",0.72135001,1.15853
+22003,"Allen, Louisiana",0.74840999,1.06445
+22005,"Ascension, Louisiana",0.87848997,1.33892
+22007,"Assumption, Louisiana",0.73692,1.14819
+22009,"Avoyelles, Louisiana",0.62866002,1.05476
+22011,"Beauregard, Louisiana",0.82858002,1.16311
+22013,"Bienville, Louisiana",0.56870002,1.04351
+22015,"Bossier, Louisiana",0.68825001,1.24798
+22017,"Caddo, Louisiana",0.56309003,1.2222199
+22019,"Calcasieu, Louisiana",0.76890999,1.2246799
+22021,"Caldwell, Louisiana",0.71866,1.09692
+22023,"Cameron, Louisiana",0.78324997,1.07104
+22025,"Catahoula, Louisiana",0.69221002,1.04193
+22027,"Claiborne, Louisiana",0.53834999,1.03403
+22029,"Concordia, Louisiana",0.57236999,1.06257
+22031,"De Soto, Louisiana",0.64191997,1.1827101
+22033,"East Baton Rouge, Louisiana",0.72828001,1.34381
+22035,"East Carroll, Louisiana",0.42721999,1.14375
+22037,"East Feliciana, Louisiana",0.81941998,1.3189501
+22039,"Evangeline, Louisiana",0.64047003,1.07143
+22041,"Franklin, Louisiana",0.60131001,1.02869
+22043,"Grant, Louisiana",0.75945997,1.1483099
+22045,"Iberia, Louisiana",0.65674001,1.1087199
+22047,"Iberville, Louisiana",0.75871003,1.25985
+22049,"Jackson, Louisiana",0.65794998,1.1170501
+22051,"Jefferson, Louisiana",0.67338997,1.26515
+22053,"Jefferson Davis, Louisiana",0.75457001,1.14223
+22055,"Lafayette, Louisiana",0.77750999,1.33083
+22057,"Lafourche, Louisiana",0.77956003,1.2587301
+22059,"La Salle, Louisiana",0.81308001,1.1558
+22061,"Lincoln, Louisiana",0.66459,1.29263
+22063,"Livingston, Louisiana",0.94003999,1.26403
+22065,"Madison, Louisiana",0.45612001,0.94128001
+22067,"Morehouse, Louisiana",0.55290002,0.99698001
+22069,"Natchitoches, Louisiana",0.62965,1.11564
+22071,"Orleans, Louisiana",0.76718003,1.47513
+22073,"Ouachita, Louisiana",0.65191001,1.19753
+22075,"Plaquemines, Louisiana",0.81713003,1.24997
+22077,"Pointe Coupee, Louisiana",0.75199997,1.20963
+22079,"Rapides, Louisiana",0.69208997,1.17888
+22081,"Red River, Louisiana",0.54865998,0.94225001
+22083,"Richland, Louisiana",0.61541998,1.1352201
+22085,"Sabine, Louisiana",0.68944001,1.03256
+22087,"St. Bernard, Louisiana",0.68550998,1.14975
+22089,"St. Charles, Louisiana",0.82530999,1.31592
+22091,"St. Helena, Louisiana",0.61996001,0.97834998
+22093,"St. James, Louisiana",0.80517,1.2501301
+22095,"St. John the Baptist, Louisiana",0.67254001,1.09079
+22097,"St. Landry, Louisiana",0.63002002,1.08845
+22099,"St. Martin, Louisiana",0.71564001,1.14192
+22101,"St. Mary, Louisiana",0.61085999,1.06802
+22103,"St. Tammany, Louisiana",0.88546997,1.388
+22105,"Tangipahoa, Louisiana",0.71471,1.2031699
+22107,"Tensas, Louisiana",NA,NA
+22109,"Terrebonne, Louisiana",0.74675,1.19815
+22111,"Union, Louisiana",0.65164,1.1102
+22113,"Vermilion, Louisiana",0.81865001,1.2324899
+22115,"Vernon, Louisiana",0.84250998,1.16931
+22117,"Washington, Louisiana",0.62948,1.02343
+22119,"Webster, Louisiana",0.60824001,1.08979
+22121,"West Baton Rouge, Louisiana",0.77104998,1.25011
+22123,"West Carroll, Louisiana",0.68151999,1.06309
+22125,"West Feliciana, Louisiana",0.84362,1.32722
+22127,"Winn, Louisiana",0.61144,1.0103199
+23000,"State average, Maine",0.841684371875,1.2755200125
+23001,"Androscoggin, Maine",0.79014999,1.25877
+23003,"Aroostook, Maine",0.75547999,1.14026
+23005,"Cumberland, Maine",1.05884,1.5459501
+23007,"Franklin, Maine",0.82718998,1.2461801
+23009,"Hancock, Maine",0.86374003,1.31454
+23011,"Kennebec, Maine",0.82814002,1.25065
+23013,"Knox, Maine",0.85984999,1.32671
+23015,"Lincoln, Maine",0.85930002,1.31814
+23017,"Oxford, Maine",0.80254,1.23052
+23019,"Penobscot, Maine",0.85664999,1.2870899
+23021,"Piscataquis, Maine",0.77823001,1.2045701
+23023,"Sagadahoc, Maine",0.93840998,1.3723
+23025,"Somerset, Maine",0.72096997,1.12597
+23027,"Waldo, Maine",0.81066,1.29026
+23029,"Washington, Maine",0.70222998,1.0574
+23031,"York, Maine",1.01457,1.43901
+24000,"State average, Maryland",0.948747494166667,1.36217042916667
+24001,"Allegany, Maryland",0.85816002,1.12852
+24003,"Anne Arundel, Maryland",1.06954,1.49367
+24005,"Baltimore County, Maryland",0.88024998,1.4086699
+24009,"Calvert, Maryland",1.20354,1.4940701
+24011,"Caroline, Maryland",0.81958997,1.20996
+24013,"Carroll, Maryland",1.20996,1.57892
+24015,"Cecil, Maryland",0.98762,1.3678401
+24017,"Charles, Maryland",1.02714,1.3290401
+24019,"Dorchester, Maryland",0.67486,1.1112601
+24021,"Frederick, Maryland",1.06832,1.53777
+24023,"Garrett, Maryland",0.94959998,1.15062
+24025,"Harford, Maryland",1.1076,1.5160201
+24027,"Howard, Maryland",1.1458499,1.55528
+24029,"Kent, Maryland",0.91715997,1.38404
+24031,"Montgomery, Maryland",0.99388999,1.54663
+24033,"Prince George's, Maryland",0.83344001,1.29755
+24035,"Queen Anne's, Maryland",1.07447,1.49401
+24037,"St. Mary's, Maryland",1.06085,1.42928
+24039,"Somerset, Maryland",0.70286,1.06367
+24041,"Talbot, Maryland",0.85333002,1.37789
+24043,"Washington, Maryland",0.91908997,1.30602
+24045,"Wicomico, Maryland",0.72296,1.1743799
+24047,"Worcester, Maryland",0.96828002,1.37884
+24510,"Baltimore City, Maryland",0.72158003,1.35814
+25000,"State average, Massachusetts",0.928555005714286,1.54149570714286
+25001,"Barnstable, Massachusetts",1.06256,1.5596
+25003,"Berkshire, Massachusetts",0.89658999,1.3652
+25005,"Bristol, Massachusetts",0.80197001,1.4571
+25007,"Dukes, Massachusetts",0.91086,1.55601
+25009,"Essex, Massachusetts",0.80094999,1.58734
+25011,"Franklin, Massachusetts",1.0703,1.47007
+25013,"Hampden, Massachusetts",0.62908,1.41018
+25015,"Hampshire, Massachusetts",1.1361901,1.58252
+25017,"Middlesex, Massachusetts",1.01036,1.6471699
+25019,"Nantucket, Massachusetts",0.69371998,1.4708
+25021,"Norfolk, Massachusetts",1.19322,1.70135
+25023,"Plymouth, Massachusetts",1.0186,1.59602
+25025,"Suffolk, Massachusetts",0.84057999,1.62709
+25027,"Worcester, Massachusetts",0.93479002,1.55049
+26000,"State average, Michigan",0.803007805853658,1.25265487804878
+26001,"Alcona, Michigan",0.72495002,1.12187
+26003,"Alger, Michigan",0.89855999,1.23128
+26005,"Allegan, Michigan",0.90799999,1.37114
+26007,"Alpena, Michigan",0.74457002,1.1577899
+26009,"Antrim, Michigan",0.79009998,1.25032
+26011,"Arenac, Michigan",0.68506002,1.07864
+26013,"Baraga, Michigan",0.74835998,1.1505899
+26015,"Barry, Michigan",0.91921997,1.34057
+26017,"Bay, Michigan",0.76617002,1.23991
+26019,"Benzie, Michigan",0.8233,1.27415
+26021,"Berrien, Michigan",0.71069998,1.33592
+26023,"Branch, Michigan",0.70953,1.14825
+26025,"Calhoun, Michigan",0.68671,1.21995
+26027,"Cass, Michigan",0.74438,1.21659
+26029,"Charlevoix, Michigan",0.85376,1.29801
+26031,"Cheboygan, Michigan",0.75452,1.14572
+26033,"Chippewa, Michigan",0.81931001,1.2254601
+26035,"Clare, Michigan",0.68102002,1.15482
+26037,"Clinton, Michigan",0.95652002,1.3879
+26039,"Crawford, Michigan",0.72381002,1.1360199
+26041,"Delta, Michigan",0.79878998,1.20341
+26043,"Dickinson, Michigan",0.85292,1.25783
+26045,"Eaton, Michigan",0.88549,1.3297499
+26047,"Emmet, Michigan",0.89324999,1.37651
+26049,"Genesee, Michigan",0.63094997,1.23913
+26051,"Gladwin, Michigan",0.74675,1.15072
+26053,"Gogebic, Michigan",0.79926997,1.21287
+26055,"Grand Traverse, Michigan",0.96485001,1.43111
+26057,"Gratiot, Michigan",0.78051001,1.23081
+26059,"Hillsdale, Michigan",0.75218999,1.20162
+26061,"Houghton, Michigan",0.98352998,1.37509
+26063,"Huron, Michigan",0.79988998,1.21082
+26065,"Ingham, Michigan",0.84715003,1.42294
+26067,"Ionia, Michigan",0.84526002,1.28009
+26069,"Iosco, Michigan",0.71617001,1.12895
+26071,"Iron, Michigan",0.79663002,1.23157
+26073,"Isabella, Michigan",0.83946002,1.2978801
+26075,"Jackson, Michigan",0.76345003,1.2635601
+26077,"Kalamazoo, Michigan",0.85193002,1.42364
+26079,"Kalkaska, Michigan",0.74430001,1.15465
+26081,"Kent, Michigan",0.86475998,1.49247
+26083,"Keweenaw, Michigan",NA,NA
+26085,"Lake, Michigan",0.57981002,1.10796
+26087,"Lapeer, Michigan",0.87651998,1.25266
+26089,"Leelanau, Michigan",1.03026,1.48588
+26091,"Lenawee, Michigan",0.84977001,1.2756701
+26093,"Livingston, Michigan",1.1063499,1.49622
+26095,"Luce, Michigan",0.75418001,1.11396
+26097,"Mackinac, Michigan",0.8344,1.24971
+26099,"Macomb, Michigan",0.82560998,1.31306
+26101,"Manistee, Michigan",0.78073001,1.23681
+26103,"Marquette, Michigan",1.00454,1.3756
+26105,"Mason, Michigan",0.77788001,1.25447
+26107,"Mecosta, Michigan",0.80195999,1.2529401
+26109,"Menominee, Michigan",0.78579998,1.19388
+26111,"Midland, Michigan",0.89341003,1.37166
+26113,"Missaukee, Michigan",0.71429002,1.19073
+26115,"Monroe, Michigan",0.89091003,1.2980601
+26117,"Montcalm, Michigan",0.80910999,1.20643
+26119,"Montmorency, Michigan",0.75325,1.1497999
+26121,"Muskegon, Michigan",0.73636001,1.24499
+26123,"Newaygo, Michigan",0.78179002,1.21984
+26125,"Oakland, Michigan",0.9016,1.50156
+26127,"Oceana, Michigan",0.69225001,1.20499
+26129,"Ogemaw, Michigan",0.71077001,1.11016
+26131,"Ontonagon, Michigan",0.89139998,1.22059
+26133,"Osceola, Michigan",0.71890002,1.1555099
+26135,"Oscoda, Michigan",0.71429998,1.0531
+26137,"Otsego, Michigan",0.80593002,1.21102
+26139,"Ottawa, Michigan",0.98351997,1.5027
+26141,"Presque Isle, Michigan",0.78723001,1.13352
+26143,"Roscommon, Michigan",0.7439,1.18536
+26145,"Saginaw, Michigan",0.66187,1.2395101
+26147,"St. Clair, Michigan",0.81867999,1.22664
+26149,"St. Joseph, Michigan",0.74633998,1.22595
+26151,"Sanilac, Michigan",0.76402003,1.1303999
+26153,"Schoolcraft, Michigan",0.74065,1.15633
+26155,"Shiawassee, Michigan",0.84719998,1.26603
+26157,"Tuscola, Michigan",0.76156002,1.13757
+26159,"Van Buren, Michigan",0.77098,1.31341
+26161,"Washtenaw, Michigan",1.06823,1.56935
+26163,"Wayne, Michigan",0.61658001,1.31016
+26165,"Wexford, Michigan",0.70775002,1.17319
+27000,"State average, Minnesota",1.04790632103448,1.46220401609195
+27001,"Aitkin, Minnesota",1.0183001,1.36674
+27003,"Anoka, Minnesota",1.03045,1.51989
+27005,"Becker, Minnesota",0.98914999,1.43507
+27007,"Beltrami, Minnesota",0.75983,1.3915
+27009,"Benton, Minnesota",1.17286,1.4831899
+27011,"Big Stone, Minnesota",1.17421,1.51779
+27013,"Blue Earth, Minnesota",1.13203,1.51869
+27015,"Brown, Minnesota",1.14209,1.47079
+27017,"Carlton, Minnesota",1.02415,1.41178
+27019,"Carver, Minnesota",1.2180099,1.65369
+27021,"Cass, Minnesota",0.77647001,1.29856
+27023,"Chippewa, Minnesota",0.86171001,1.4395601
+27025,"Chisago, Minnesota",1.20342,1.50782
+27027,"Clay, Minnesota",1.04096,1.53822
+27029,"Clearwater, Minnesota",0.93194002,1.30968
+27031,"Cook, Minnesota",1.13227,1.46137
+27033,"Cottonwood, Minnesota",0.86575001,1.4033
+27035,"Crow Wing, Minnesota",1.04995,1.42471
+27037,"Dakota, Minnesota",1.07026,1.57144
+27039,"Dodge, Minnesota",1.1513799,1.53251
+27041,"Douglas, Minnesota",1.17767,1.5233999
+27043,"Faribault, Minnesota",0.92145002,1.4370199
+27045,"Fillmore, Minnesota",1.19946,1.49534
+27047,"Freeborn, Minnesota",0.89091998,1.3494999
+27049,"Goodhue, Minnesota",1.15031,1.51222
+27051,"Grant, Minnesota",1.15798,1.49912
+27053,"Hennepin, Minnesota",0.97632003,1.60571
+27055,"Houston, Minnesota",1.1802,1.48176
+27057,"Hubbard, Minnesota",0.99961001,1.37473
+27059,"Isanti, Minnesota",1.1776201,1.46083
+27061,"Itasca, Minnesota",0.97575998,1.38436
+27063,"Jackson, Minnesota",1.06769,1.45578
+27065,"Kanabec, Minnesota",0.99628001,1.37577
+27067,"Kandiyohi, Minnesota",0.89806002,1.47791
+27069,"Kittson, Minnesota",1.21296,1.48943
+27071,"Koochiching, Minnesota",0.96885002,1.29414
+27073,"Lac qui Parle, Minnesota",1.20034,1.5059201
+27075,"Lake, Minnesota",1.1386,1.43163
+27077,"Lake of the Woods, Minnesota",1.12264,1.42331
+27079,"Le Sueur, Minnesota",1.09262,1.4961801
+27081,"Lincoln, Minnesota",1.20188,1.48794
+27083,"Lyon, Minnesota",1.01829,1.50291
+27085,"McLeod, Minnesota",1.1631,1.49744
+27087,"Mahnomen, Minnesota",0.58665001,1.21672
+27089,"Marshall, Minnesota",1.1634099,1.47142
+27091,"Martin, Minnesota",0.9472,1.43416
+27093,"Meeker, Minnesota",1.13625,1.44916
+27095,"Mille Lacs, Minnesota",1.08468,1.42265
+27097,"Morrison, Minnesota",1.02246,1.36369
+27099,"Mower, Minnesota",0.80070001,1.39271
+27101,"Murray, Minnesota",1.09631,1.47559
+27103,"Nicollet, Minnesota",1.16146,1.54084
+27105,"Nobles, Minnesota",0.65442997,1.36895
+27107,"Norman, Minnesota",1.04493,1.4794199
+27109,"Olmsted, Minnesota",1.11134,1.57224
+27111,"Otter Tail, Minnesota",1.0625401,1.46648
+27113,"Pennington, Minnesota",1.06635,1.42667
+27115,"Pine, Minnesota",0.99388999,1.35128
+27117,"Pipestone, Minnesota",0.99159998,1.48149
+27119,"Polk, Minnesota",1.0387599,1.48018
+27121,"Pope, Minnesota",1.1796499,1.4953099
+27123,"Ramsey, Minnesota",0.85487002,1.56054
+27125,"Red Lake, Minnesota",1.13307,1.44558
+27127,"Redwood, Minnesota",1.07268,1.46883
+27129,"Renville, Minnesota",1.03032,1.44491
+27131,"Rice, Minnesota",1.0545,1.49733
+27133,"Rock, Minnesota",1.13959,1.52335
+27135,"Roseau, Minnesota",1.03732,1.41199
+27137,"St. Louis, Minnesota",1.02886,1.4611
+27139,"Scott, Minnesota",1.08085,1.57163
+27141,"Sherburne, Minnesota",1.13634,1.5358599
+27143,"Sibley, Minnesota",1.05668,1.48631
+27145,"Stearns, Minnesota",1.0326101,1.48009
+27147,"Steele, Minnesota",1.02923,1.45885
+27149,"Stevens, Minnesota",0.95367002,1.52022
+27151,"Swift, Minnesota",1.00713,1.4745899
+27153,"Todd, Minnesota",0.91159999,1.34165
+27155,"Traverse, Minnesota",1.02214,1.50596
+27157,"Wabasha, Minnesota",1.1791199,1.50459
+27159,"Wadena, Minnesota",1.04469,1.36077
+27161,"Waseca, Minnesota",1.06423,1.43426
+27163,"Washington, Minnesota",1.1604199,1.57002
+27165,"Watonwan, Minnesota",0.81116003,1.39772
+27167,"Wilkin, Minnesota",1.10428,1.4734499
+27169,"Winona, Minnesota",1.1096801,1.50885
+27171,"Wright, Minnesota",1.25228,1.57533
+27173,"Yellow Medicine, Minnesota",1.08412,1.49036
+28000,"State average, Mississippi",0.634397216075949,1.0383275986076
+28001,"Adams, Mississippi",0.52726001,1.00966
+28003,"Alcorn, Mississippi",0.68052,1.08468
+28005,"Amite, Mississippi",0.60856998,0.99473
+28007,"Attala, Mississippi",0.58020997,1.0127701
+28009,"Benton, Mississippi",0.70244002,1.0728101
+28011,"Bolivar, Mississippi",0.55483001,1.0621099
+28013,"Calhoun, Mississippi",0.60247999,0.99285001
+28015,"Carroll, Mississippi",0.65749002,1.02386
+28017,"Chickasaw, Mississippi",0.57459998,0.96420002
+28019,"Choctaw, Mississippi",0.69454998,1.13483
+28021,"Claiborne, Mississippi",0.43199,0.7288
+28023,"Clarke, Mississippi",0.70547998,1.06501
+28025,"Clay, Mississippi",0.54637003,1.0035599
+28027,"Coahoma, Mississippi",0.43441999,0.88450998
+28029,"Copiah, Mississippi",0.56206,1.0181
+28031,"Covington, Mississippi",0.62176001,1.02031
+28033,"DeSoto, Mississippi",0.69832999,1.16254
+28035,"Forrest, Mississippi",0.69357002,1.15344
+28037,"Franklin, Mississippi",0.64894003,1.05968
+28039,"George, Mississippi",0.78865999,1.11269
+28041,"Greene, Mississippi",0.72386003,1.04498
+28043,"Grenada, Mississippi",0.60509998,0.88160002
+28045,"Hancock, Mississippi",0.73575002,1.11949
+28047,"Harrison, Mississippi",0.69721001,1.13851
+28049,"Hinds, Mississippi",0.60742003,1.10184
+28051,"Holmes, Mississippi",0.45950001,0.70062
+28053,"Humphreys, Mississippi",0.4305,0.82143998
+28057,"Itawamba, Mississippi",0.81233001,1.12801
+28059,"Jackson, Mississippi",0.68848997,1.13653
+28061,"Jasper, Mississippi",0.61036003,0.98711002
+28063,"Jefferson, Mississippi",NA,NA
+28065,"Jefferson Davis, Mississippi",0.54497999,0.84380001
+28067,"Jones, Mississippi",0.62312001,1.1011
+28069,"Kemper, Mississippi",0.56220001,1.00386
+28071,"Lafayette, Mississippi",0.86812001,1.36482
+28073,"Lamar, Mississippi",0.78457999,1.22659
+28075,"Lauderdale, Mississippi",0.62093002,1.10809
+28077,"Lawrence, Mississippi",0.68703002,1.03642
+28079,"Leake, Mississippi",0.58191001,0.977
+28081,"Lee, Mississippi",0.67948997,1.13907
+28083,"Leflore, Mississippi",0.48482001,0.95225
+28085,"Lincoln, Mississippi",0.66824001,1.1111799
+28087,"Lowndes, Mississippi",0.65670002,1.186
+28089,"Madison, Mississippi",0.69121999,1.3690701
+28091,"Marion, Mississippi",0.64744002,1.03105
+28093,"Marshall, Mississippi",0.71250999,1.12931
+28095,"Monroe, Mississippi",0.68526,1.11727
+28097,"Montgomery, Mississippi",0.61407,1.00947
+28099,"Neshoba, Mississippi",0.57703,1.02394
+28101,"Newton, Mississippi",0.64459002,1.1034
+28103,"Noxubee, Mississippi",0.50427002,0.82344002
+28105,"Oktibbeha, Mississippi",0.75051999,1.29626
+28107,"Panola, Mississippi",0.59382999,0.98812997
+28109,"Pearl River, Mississippi",0.76780999,1.09047
+28111,"Perry, Mississippi",0.76682001,1.0799201
+28113,"Pike, Mississippi",0.52130002,0.93381
+28115,"Pontotoc, Mississippi",0.70828998,1.12459
+28117,"Prentiss, Mississippi",0.71544999,1.09453
+28119,"Quitman, Mississippi",0.48859999,0.84235001
+28121,"Rankin, Mississippi",0.86145997,1.2731
+28123,"Scott, Mississippi",0.55216998,0.96380001
+28125,"Sharkey, Mississippi",NA,NA
+28127,"Simpson, Mississippi",0.70289999,1.0809
+28129,"Smith, Mississippi",0.71680999,1.05882
+28131,"Stone, Mississippi",0.73018998,1.04309
+28133,"Sunflower, Mississippi",0.45051,0.86461002
+28135,"Tallahatchie, Mississippi",0.48157001,0.79639
+28137,"Tate, Mississippi",0.73935997,1.196
+28139,"Tippah, Mississippi",0.71019,1.05694
+28141,"Tishomingo, Mississippi",0.75365001,1.04798
+28143,"Tunica, Mississippi",0.43650001,0.77029002
+28145,"Union, Mississippi",0.75875002,1.14153
+28147,"Walthall, Mississippi",0.57837999,0.91320997
+28149,"Warren, Mississippi",0.64959002,1.07787
+28151,"Washington, Mississippi",0.46313,0.88053
+28153,"Wayne, Mississippi",0.67897999,0.99952
+28155,"Webster, Mississippi",0.77095997,1.17612
+28157,"Wilkinson, Mississippi",0.51727998,0.94760001
+28159,"Winston, Mississippi",0.57770002,1.0492001
+28161,"Yalobusha, Mississippi",0.63774002,0.99144
+28163,"Yazoo, Mississippi",0.51337999,0.97048002
+29000,"State average, Missouri",0.845587280877193,1.26532929736842
+29001,"Adair, Missouri",0.88072002,1.3870699
+29003,"Andrew, Missouri",1.05957,1.40714
+29005,"Atchison, Missouri",0.97996002,1.36185
+29007,"Audrain, Missouri",0.79408002,1.24558
+29009,"Barry, Missouri",0.73288,1.16811
+29011,"Barton, Missouri",0.82981002,1.25862
+29013,"Bates, Missouri",0.91988999,1.29485
+29015,"Benton, Missouri",0.80689001,1.20573
+29017,"Bollinger, Missouri",0.80588001,1.1663001
+29019,"Boone, Missouri",0.9393,1.49104
+29021,"Buchanan, Missouri",0.78388,1.35782
+29023,"Butler, Missouri",0.69722998,1.17328
+29025,"Caldwell, Missouri",0.97439998,1.31115
+29027,"Callaway, Missouri",0.87033999,1.30759
+29029,"Camden, Missouri",0.87019002,1.30047
+29031,"Cape Girardeau, Missouri",0.88044,1.37963
+29033,"Carroll, Missouri",0.88050002,1.28416
+29035,"Carter, Missouri",0.74786001,1.10026
+29037,"Cass, Missouri",0.97582,1.39703
+29039,"Cedar, Missouri",0.84109002,1.20683
+29041,"Chariton, Missouri",0.97096997,1.3253
+29043,"Christian, Missouri",0.99311,1.386
+29045,"Clark, Missouri",0.79117,1.18223
+29047,"Clay, Missouri",0.96674001,1.46074
+29049,"Clinton, Missouri",0.98892999,1.3661
+29051,"Cole, Missouri",0.90219998,1.3827699
+29053,"Cooper, Missouri",0.86589003,1.32923
+29055,"Crawford, Missouri",0.74965,1.1695499
+29057,"Dade, Missouri",0.84232002,1.23314
+29059,"Dallas, Missouri",0.80125999,1.15852
+29061,"Daviess, Missouri",0.93577999,1.30454
+29063,"DeKalb, Missouri",1.02937,1.36088
+29065,"Dent, Missouri",0.72649997,1.13719
+29067,"Douglas, Missouri",NA,NA
+29069,"Dunklin, Missouri",0.62049001,1.11071
+29071,"Franklin, Missouri",0.91658002,1.37292
+29073,"Gasconade, Missouri",0.92989999,1.3380001
+29075,"Gentry, Missouri",0.97992003,1.40518
+29077,"Greene, Missouri",0.87432998,1.36859
+29079,"Grundy, Missouri",0.87336999,1.2975399
+29081,"Harrison, Missouri",0.91350001,1.2859499
+29083,"Henry, Missouri",0.85105002,1.25534
+29085,"Hickory, Missouri",0.81704003,1.15141
+29087,"Holt, Missouri",1.0117,1.36164
+29089,"Howard, Missouri",0.91316003,1.33125
+29091,"Howell, Missouri",0.72566998,1.09882
+29093,"Iron, Missouri",0.71837997,1.09724
+29095,"Jackson, Missouri",0.79030001,1.44622
+29097,"Jasper, Missouri",0.77467,1.28976
+29099,"Jefferson, Missouri",0.97249001,1.40114
+29101,"Johnson, Missouri",1.00211,1.34069
+29103,"Knox, Missouri",0.90811998,1.3283
+29105,"Laclede, Missouri",0.73505002,1.17137
+29107,"Lafayette, Missouri",0.94313997,1.35245
+29109,"Lawrence, Missouri",0.78855997,1.19268
+29111,"Lewis, Missouri",0.89155,1.2627
+29113,"Lincoln, Missouri",0.97053999,1.36508
+29115,"Linn, Missouri",0.92702001,1.28686
+29117,"Livingston, Missouri",0.89129001,1.3349
+29119,"McDonald, Missouri",0.66126001,1.10115
+29121,"Macon, Missouri",0.88959002,1.25702
+29123,"Madison, Missouri",0.78100002,1.13186
+29125,"Maries, Missouri",0.90549999,1.27938
+29127,"Marion, Missouri",0.78915,1.27925
+29129,"Mercer, Missouri",0.92129999,1.2622401
+29131,"Miller, Missouri",0.79863,1.19634
+29133,"Mississippi, Missouri",0.59868002,1.11917
+29135,"Moniteau, Missouri",0.84129,1.29333
+29137,"Monroe, Missouri",0.90342999,1.26834
+29139,"Montgomery, Missouri",0.87689,1.31951
+29141,"Morgan, Missouri",0.76003999,1.1888601
+29143,"New Madrid, Missouri",0.66044003,1.1341799
+29145,"Newton, Missouri",0.75031,1.18854
+29147,"Nodaway, Missouri",1.0439399,1.43516
+29149,"Oregon, Missouri",0.75041997,1.07538
+29151,"Osage, Missouri",1.02957,1.36008
+29153,"Ozark, Missouri",0.75700003,1.10387
+29155,"Pemiscot, Missouri",0.58319998,1.10357
+29157,"Perry, Missouri",0.88116997,1.30686
+29159,"Pettis, Missouri",0.73417002,1.22885
+29161,"Phelps, Missouri",0.84004998,1.29203
+29163,"Pike, Missouri",0.84051001,1.24192
+29165,"Platte, Missouri",1.04626,1.53045
+29167,"Polk, Missouri",0.83244002,1.2769901
+29169,"Pulaski, Missouri",0.90042001,1.2275
+29171,"Putnam, Missouri",0.86056,1.2677
+29173,"Ralls, Missouri",0.89137,1.25248
+29175,"Randolph, Missouri",0.79058999,1.23041
+29177,"Ray, Missouri",0.90482998,1.28227
+29179,"Reynolds, Missouri",0.75088,1.1219
+29181,"Ripley, Missouri",0.70137,1.09155
+29183,"St. Charles, Missouri",1.0878201,1.50907
+29185,"St. Clair, Missouri",0.82225001,1.21175
+29186,"Ste Genevieve, Missouri",0.91892999,1.3355401
+29187,"St. Francois, Missouri",0.79751003,1.2096699
+29189,"St. Louis County, Missouri",0.78839999,1.50343
+29195,"Saline, Missouri",0.73493999,1.23074
+29197,"Schuyler, Missouri",0.86242998,1.18668
+29199,"Scotland, Missouri",0.91273999,1.28054
+29201,"Scott, Missouri",0.73604,1.23033
+29203,"Shannon, Missouri",0.68295002,1.06361
+29205,"Shelby, Missouri",0.91101003,1.29857
+29207,"Stoddard, Missouri",0.80798,1.2287
+29209,"Stone, Missouri",0.81120002,1.2395999
+29211,"Sullivan, Missouri",0.72105998,1.16337
+29213,"Taney, Missouri",0.78805,1.26034
+29215,"Texas, Missouri",0.72820997,1.06743
+29217,"Vernon, Missouri",0.79631001,1.20839
+29219,"Warren, Missouri",0.94367999,1.36366
+29221,"Washington, Missouri",0.70084,1.0944901
+29223,"Wayne, Missouri",0.71184999,1.08509
+29225,"Webster, Missouri",0.87809998,1.26465
+29227,"Worth, Missouri",0.97425997,1.28918
+29229,"Wright, Missouri",0.72918999,1.1006
+29510,"St. Louis City, Missouri",0.70038998,1.52653
+30000,"State average, Montana",0.895602660222222,1.27465488644444
+30001,"Beaverhead, Montana",0.96219999,1.3036799
+30003,"Big Horn, Montana",0.48414001,0.98528999
+30005,"Blaine, Montana",0.55576998,1.09095
+30007,"Broadwater, Montana",0.91826999,1.2586499
+30009,"Carbon, Montana",1.074,1.39289
+30011,"Carter, Montana",NA,NA
+30013,"Cascade, Montana",0.8251,1.2804199
+30015,"Chouteau, Montana",0.98580998,1.29844
+30017,"Custer, Montana",0.94387001,1.25625
+30019,"Daniels, Montana",1.1474,1.36176
+30021,"Dawson, Montana",1.01449,1.3504699
+30023,"Deer Lodge, Montana",0.81221002,1.26037
+30025,"Fallon, Montana",1.07262,1.34914
+30027,"Fergus, Montana",0.91623002,1.28664
+30029,"Flathead, Montana",0.91574001,1.37629
+30031,"Gallatin, Montana",1.13998,1.50675
+30033,"Garfield, Montana",NA,NA
+30035,"Glacier, Montana",0.45486999,0.95835
+30039,"Granite, Montana",1.04951,1.32795
+30041,"Hill, Montana",0.64911997,1.16249
+30043,"Jefferson, Montana",0.93286002,1.29519
+30045,"Judith Basin, Montana",NA,NA
+30047,"Lake, Montana",0.66709,1.16471
+30049,"Lewis and Clark, Montana",0.91167003,1.37431
+30051,"Liberty, Montana",NA,NA
+30053,"Lincoln, Montana",0.79514003,1.16571
+30055,"McCone, Montana",1.13685,1.31872
+30057,"Madison, Montana",1.1015199,1.4218301
+30059,"Meagher, Montana",0.97684997,1.2832
+30061,"Mineral, Montana",0.80008,1.17538
+30063,"Missoula, Montana",0.99296999,1.42077
+30065,"Musselshell, Montana",0.93646002,1.2453901
+30067,"Park, Montana",1.0350699,1.44214
+30071,"Phillips, Montana",0.95931,1.2388999
+30073,"Pondera, Montana",0.83607,1.2577
+30075,"Powder River, Montana",NA,NA
+30077,"Powell, Montana",0.78983003,1.14003
+30079,"Prairie, Montana",NA,NA
+30081,"Ravalli, Montana",0.93080997,1.32156
+30083,"Richland, Montana",0.97873998,1.34492
+30085,"Roosevelt, Montana",0.54457998,1.12523
+30087,"Rosebud, Montana",0.66921997,1.13854
+30089,"Sanders, Montana",0.83388001,1.21789
+30091,"Sheridan, Montana",1.04522,1.38901
+30093,"Silver Bow, Montana",0.75958002,1.22835
+30095,"Stillwater, Montana",1.00655,1.28478
+30097,"Sweet Grass, Montana",1.0379699,1.32479
+30099,"Teton, Montana",1.00205,1.30931
+30101,"Toole, Montana",0.84884,1.24351
+30105,"Valley, Montana",0.97478002,1.3415101
+30107,"Wheatland, Montana",NA,NA
+30111,"Yellowstone, Montana",0.8768,1.3393101
+31000,"State average, Nebraska",0.988439232307692,1.41715628461538
+31001,"Adams, Nebraska",0.88799,1.42549
+31003,"Antelope, Nebraska",1.11277,1.45654
+31011,"Boone, Nebraska",1.11061,1.48964
+31013,"Box Butte, Nebraska",0.91351002,1.3032399
+31015,"Boyd, Nebraska",1.09176,1.42266
+31017,"Brown, Nebraska",0.97577,1.38603
+31019,"Buffalo, Nebraska",1.02719,1.48429
+31021,"Burt, Nebraska",1.08513,1.46401
+31023,"Butler, Nebraska",1.06416,1.4673001
+31025,"Cass, Nebraska",1.11209,1.45002
+31027,"Cedar, Nebraska",1.22321,1.5324
+31029,"Chase, Nebraska",0.98749,1.43914
+31031,"Cherry, Nebraska",0.986,1.3179899
+31033,"Cheyenne, Nebraska",0.98580998,1.40137
+31035,"Clay, Nebraska",1.03207,1.433
+31037,"Colfax, Nebraska",0.57292002,1.28118
+31039,"Cuming, Nebraska",0.97847998,1.48303
+31041,"Custer, Nebraska",1.03036,1.40027
+31043,"Dakota, Nebraska",0.62869,1.17231
+31045,"Dawes, Nebraska",1.02863,1.3926001
+31047,"Dawson, Nebraska",0.67014998,1.29652
+31049,"Deuel, Nebraska",1.0208,1.35571
+31051,"Dixon, Nebraska",0.98905998,1.45851
+31053,"Dodge, Nebraska",0.83293998,1.38968
+31055,"Douglas, Nebraska",0.80927998,1.51419
+31057,"Dundy, Nebraska",1.04444,1.39245
+31059,"Fillmore, Nebraska",1.07819,1.48385
+31061,"Franklin, Nebraska",1.1055,1.42618
+31063,"Frontier, Nebraska",1.0855401,1.44561
+31065,"Furnas, Nebraska",1.06473,1.46332
+31067,"Gage, Nebraska",0.92404997,1.36441
+31069,"Garden, Nebraska",NA,NA
+31071,"Garfield, Nebraska",1.17126,1.42506
+31073,"Gosper, Nebraska",1.06101,1.4867899
+31075,"Grant, Nebraska",NA,NA
+31077,"Greeley, Nebraska",1.15053,1.47671
+31079,"Hall, Nebraska",0.66930002,1.33596
+31081,"Hamilton, Nebraska",1.08571,1.48379
+31083,"Harlan, Nebraska",1.1057301,1.47803
+31087,"Hitchcock, Nebraska",1.03206,1.31541
+31089,"Holt, Nebraska",1.03485,1.45723
+31093,"Howard, Nebraska",1.07802,1.43876
+31095,"Jefferson, Nebraska",0.85825002,1.37569
+31097,"Johnson, Nebraska",0.79079002,1.32819
+31099,"Kearney, Nebraska",1.09842,1.48794
+31101,"Keith, Nebraska",0.97583997,1.38248
+31105,"Kimball, Nebraska",0.96209002,1.33867
+31107,"Knox, Nebraska",0.96733999,1.4091901
+31109,"Lancaster, Nebraska",0.96534002,1.50899
+31111,"Lincoln, Nebraska",0.89218998,1.33803
+31113,"Logan, Nebraska",NA,NA
+31119,"Madison, Nebraska",0.92909002,1.42322
+31121,"Merrick, Nebraska",1.11498,1.46189
+31123,"Morrill, Nebraska",0.90884,1.32797
+31125,"Nance, Nebraska",1.11717,1.42621
+31127,"Nemaha, Nebraska",1.02378,1.43639
+31129,"Nuckolls, Nebraska",0.99331999,1.41852
+31131,"Otoe, Nebraska",0.92979997,1.42176
+31133,"Pawnee, Nebraska",1.03197,1.43806
+31135,"Perkins, Nebraska",1.14323,1.4640501
+31137,"Phelps, Nebraska",1.01046,1.46372
+31139,"Pierce, Nebraska",1.16286,1.45673
+31141,"Platte, Nebraska",0.79223001,1.3899
+31143,"Polk, Nebraska",1.08955,1.4852
+31145,"Red Willow, Nebraska",0.97069001,1.36694
+31147,"Richardson, Nebraska",0.95959997,1.35651
+31149,"Rock, Nebraska",NA,NA
+31151,"Saline, Nebraska",0.72569001,1.39143
+31153,"Sarpy, Nebraska",1.02101,1.48391
+31155,"Saunders, Nebraska",1.14193,1.52105
+31157,"Scotts Bluff, Nebraska",0.82388997,1.28558
+31159,"Seward, Nebraska",1.1193399,1.4892
+31161,"Sheridan, Nebraska",0.89170003,1.32783
+31163,"Sherman, Nebraska",0.96961999,1.40409
+31167,"Stanton, Nebraska",1.06601,1.40535
+31169,"Thayer, Nebraska",0.99821001,1.43381
+31171,"Thomas, Nebraska",NA,NA
+31173,"Thurston, Nebraska",0.53644001,1.2834001
+31175,"Valley, Nebraska",1.07447,1.42979
+31177,"Washington, Nebraska",1.14897,1.51351
+31179,"Wayne, Nebraska",1.0376101,1.48545
+31181,"Webster, Nebraska",1.00416,1.41325
+31185,"York, Nebraska",1.00359,1.47361
+32000,"State average, Nevada",0.838434669333333,1.22889333333333
+32001,"Churchill, Nevada",0.82966,1.2273999
+32003,"Clark, Nevada",0.73276001,1.29062
+32005,"Douglas, Nevada",0.96063,1.37691
+32007,"Elko, Nevada",0.89293998,1.23388
+32011,"Eureka, Nevada",0.85731,1.17532
+32013,"Humboldt, Nevada",0.87821001,1.20947
+32015,"Lander, Nevada",0.94035,1.22971
+32017,"Lincoln, Nevada",0.93839002,1.3247401
+32019,"Lyon, Nevada",0.79903001,1.12752
+32021,"Mineral, Nevada",NA,NA
+32023,"Nye, Nevada",0.74346,1.11429
+32027,"Pershing, Nevada",0.77140999,1.12365
+32029,"Storey, Nevada",0.81353003,1.1839499
+32031,"Washoe, Nevada",0.80659002,1.36307
+32033,"White Pine, Nevada",0.84535998,1.2029901
+32510,"Carson City, Nevada",0.76688999,1.24988
+33000,"State average, New Hampshire",1.087420992,1.45358001
+33001,"Belknap, New Hampshire",1.08412,1.44177
+33003,"Carroll, New Hampshire",1.0821199,1.45907
+33005,"Cheshire, New Hampshire",1.07577,1.41903
+33007,"Coos, New Hampshire",0.90846002,1.26278
+33009,"Grafton, New Hampshire",1.0929,1.51695
+33011,"Hillsborough, New Hampshire",1.05302,1.53038
+33013,"Merrimack, New Hampshire",1.1284,1.50108
+33015,"Rockingham, New Hampshire",1.3597,1.5677201
+33017,"Strafford, New Hampshire",1.13405,1.49661
+33019,"Sullivan, New Hampshire",0.95567,1.34041
+34000,"State average, New Jersey",0.894470937142857,1.52091380952381
+34001,"Atlantic, New Jersey",0.75431001,1.41052
+34003,"Bergen, New Jersey",1.0269099,1.65387
+34005,"Burlington, New Jersey",0.97755998,1.51595
+34007,"Camden, New Jersey",0.76767999,1.50516
+34009,"Cape May, New Jersey",0.94268,1.44591
+34011,"Cumberland, New Jersey",0.66140997,1.1831501
+34013,"Essex, New Jersey",0.63766998,1.43221
+34015,"Gloucester, New Jersey",1.01538,1.51745
+34017,"Hudson, New Jersey",0.81652999,1.55188
+34019,"Hunterdon, New Jersey",1.1822799,1.68463
+34021,"Mercer, New Jersey",0.56733,1.51682
+34023,"Middlesex, New Jersey",0.85285997,1.5437599
+34025,"Monmouth, New Jersey",0.94753999,1.65774
+34027,"Morris, New Jersey",1.08737,1.68937
+34029,"Ocean, New Jersey",0.99555999,1.526
+34031,"Passaic, New Jersey",0.59579003,1.44489
+34033,"Salem, New Jersey",0.86607999,1.37666
+34035,"Somerset, New Jersey",1.00537,1.66268
+34037,"Sussex, New Jersey",1.25775,1.60588
+34039,"Union, New Jersey",0.69148999,1.46755
+34041,"Warren, New Jersey",1.13434,1.54711
+35000,"State average, New Mexico",0.627406902068966,1.09697965862069
+35001,"Bernalillo, New Mexico",0.66459,1.25278
+35003,"Catron, New Mexico",NA,NA
+35005,"Chaves, New Mexico",0.57494998,1.0323499
+35006,"Cibola, New Mexico",0.46673,0.87998998
+35007,"Colfax, New Mexico",0.64099997,1.2510999
+35009,"Curry, New Mexico",0.66850001,1.22962
+35011,"De Baca, New Mexico",NA,NA
+35013,"DoÃÂ±a Ana, New Mexico",0.59858,1.0735
+35015,"Eddy, New Mexico",0.74067003,1.11143
+35017,"Grant, New Mexico",0.56770003,1.06396
+35019,"Guadalupe, New Mexico",0.59342998,0.97113001
+35023,"Hidalgo, New Mexico",0.63405001,0.93590999
+35025,"Lea, New Mexico",0.6886,1.0859801
+35027,"Lincoln, New Mexico",0.68344003,1.15756
+35028,"Los Alamos, New Mexico",1.1156501,1.53416
+35029,"Luna, New Mexico",0.46496999,0.82160997
+35031,"McKinley, New Mexico",0.41604,0.85974002
+35033,"Mora, New Mexico",NA,NA
+35035,"Otero, New Mexico",0.73474002,1.2180901
+35037,"Quay, New Mexico",0.57808,1.06507
+35039,"Rio Arriba, New Mexico",0.44734001,0.8976
+35041,"Roosevelt, New Mexico",0.68822998,1.14408
+35043,"Sandoval, New Mexico",0.74976999,1.2136101
+35045,"San Juan, New Mexico",0.59600002,1.03476
+35047,"San Miguel, New Mexico",0.4998,1.00538
+35049,"Santa Fe, New Mexico",0.62910998,1.34547
+35051,"Sierra, New Mexico",0.57985997,1.05495
+35053,"Socorro, New Mexico",0.53258002,1.13403
+35055,"Taos, New Mexico",0.70545,1.30819
+35057,"Torrance, New Mexico",0.65758002,0.99483001
+35059,"Union, New Mexico",0.72306001,1.15702
+35061,"Valencia, New Mexico",0.55430001,0.97851002
+36000,"State average, New York",0.839834193225806,1.33043371290323
+36001,"Albany, New York",0.87391001,1.46298
+36003,"Allegany, New York",0.77829999,1.17528
+36005,"Bronx, New York",0.68067002,1.05966
+36007,"Broome, New York",0.81244999,1.32753
+36009,"Cattaraugus, New York",0.75652999,1.1748101
+36011,"Cayuga, New York",0.81484997,1.25554
+36013,"Chautauqua, New York",0.69059998,1.1845
+36015,"Chemung, New York",0.73575002,1.25367
+36017,"Chenango, New York",0.79185998,1.1632299
+36019,"Clinton, New York",0.84636998,1.27345
+36021,"Columbia, New York",0.88366997,1.40091
+36023,"Cortland, New York",0.80005997,1.27177
+36025,"Delaware, New York",0.85110998,1.28693
+36027,"Dutchess, New York",0.95771003,1.46461
+36029,"Erie, New York",0.75937998,1.37372
+36031,"Essex, New York",0.86543,1.33933
+36033,"Franklin, New York",0.76937002,1.19865
+36035,"Fulton, New York",0.7155,1.15371
+36037,"Genesee, New York",0.90377998,1.2741801
+36039,"Greene, New York",0.87491,1.33384
+36041,"Hamilton, New York",1.0166,1.39314
+36043,"Herkimer, New York",0.78821999,1.16153
+36045,"Jefferson, New York",0.87980002,1.24696
+36047,"Kings, New York",0.77451998,1.55396
+36049,"Lewis, New York",0.86748999,1.2059
+36051,"Livingston, New York",0.90139002,1.31453
+36053,"Madison, New York",0.89937001,1.3401099
+36055,"Monroe, New York",0.71841002,1.40669
+36057,"Montgomery, New York",0.73624003,1.20929
+36059,"Nassau, New York",0.95231003,1.5534
+36061,"New York, New York",0.82734001,1.6875
+36063,"Niagara, New York",0.85018998,1.31727
+36065,"Oneida, New York",0.75343001,1.27557
+36067,"Onondaga, New York",0.77278,1.41187
+36069,"Ontario, New York",0.91204,1.38598
+36071,"Orange, New York",0.84834999,1.38465
+36073,"Orleans, New York",0.80096,1.1900001
+36075,"Oswego, New York",0.78162998,1.22173
+36077,"Otsego, New York",0.88191998,1.32603
+36079,"Putnam, New York",1.03351,1.5779901
+36081,"Queens, New York",0.77995998,1.45968
+36083,"Rensselaer, New York",0.87690002,1.4222701
+36085,"Richmond, New York",0.93111998,1.5300699
+36087,"Rockland, New York",0.71461999,1.51389
+36089,"St. Lawrence, New York",0.79506999,1.24503
+36091,"Saratoga, New York",1.03073,1.4847
+36093,"Schenectady, New York",0.83007997,1.41808
+36095,"Schoharie, New York",0.88620001,1.24334
+36097,"Schuyler, New York",0.79557002,1.22957
+36099,"Seneca, New York",0.82130003,1.2134
+36101,"Steuben, New York",0.77209002,1.24157
+36103,"Suffolk, New York",0.94288999,1.49624
+36105,"Sullivan, New York",0.77954,1.23762
+36107,"Tioga, New York",0.83236003,1.23146
+36109,"Tompkins, New York",1.05003,1.5588599
+36111,"Ulster, New York",0.90713,1.42063
+36113,"Warren, New York",0.91123003,1.37665
+36115,"Washington, New York",0.83695,1.24874
+36117,"Wayne, New York",0.84524,1.28471
+36119,"Westchester, New York",0.81660002,1.5499001
+36121,"Wyoming, New York",0.91834998,1.24324
+36123,"Yates, New York",0.83705002,1.24484
+37000,"State average, North Carolina",0.633975755555556,1.11342606353535
+37001,"Alamance, North Carolina",0.61148,1.2102
+37003,"Alexander, North Carolina",0.63590997,1.04313
+37005,"Alleghany, North Carolina",0.56276,1.03143
+37007,"Anson, North Carolina",0.46175,0.92750001
+37009,"Ashe, North Carolina",0.63370001,1.09242
+37011,"Avery, North Carolina",0.73922002,1.22377
+37013,"Beaufort, North Carolina",0.56181002,1.0551701
+37015,"Bertie, North Carolina",0.53906,0.88941002
+37017,"Bladen, North Carolina",0.45526001,0.92851001
+37019,"Brunswick, North Carolina",0.72191,1.24542
+37021,"Buncombe, North Carolina",0.80628997,1.40911
+37023,"Burke, North Carolina",0.54716003,1.03731
+37025,"Cabarrus, North Carolina",0.73873001,1.26766
+37027,"Caldwell, North Carolina",0.55425,0.98367
+37029,"Camden, North Carolina",0.92234999,1.21366
+37031,"Carteret, North Carolina",0.80018997,1.29776
+37033,"Caswell, North Carolina",0.56954002,0.96166998
+37035,"Catawba, North Carolina",0.64618999,1.13464
+37037,"Chatham, North Carolina",0.63848001,1.30556
+37039,"Cherokee, North Carolina",0.61150998,1.03325
+37041,"Chowan, North Carolina",0.56221998,1.06059
+37043,"Clay, North Carolina",0.68169999,1.12437
+37045,"Cleveland, North Carolina",0.55795997,1.06055
+37047,"Columbus, North Carolina",0.44911999,0.81361002
+37049,"Craven, North Carolina",0.73456001,1.2032
+37051,"Cumberland, North Carolina",0.68410999,1.15069
+37053,"Currituck, North Carolina",0.90688998,1.27558
+37055,"Dare, North Carolina",0.87639999,1.3132401
+37057,"Davidson, North Carolina",0.57999998,1.02931
+37059,"Davie, North Carolina",0.70682001,1.19411
+37061,"Duplin, North Carolina",0.4862,0.93911999
+37063,"Durham, North Carolina",0.73408002,1.49114
+37065,"Edgecombe, North Carolina",0.45456001,0.92074001
+37067,"Forsyth, North Carolina",0.64214998,1.31687
+37069,"Franklin, North Carolina",0.76798999,1.27702
+37071,"Gaston, North Carolina",0.62857002,1.21152
+37073,"Gates, North Carolina",0.76517999,1.01481
+37075,"Graham, North Carolina",0.58879,0.94299001
+37077,"Granville, North Carolina",0.61255997,1.0845799
+37079,"Greene, North Carolina",0.50579,1.02473
+37081,"Guilford, North Carolina",0.66260999,1.24808
+37083,"Halifax, North Carolina",0.45603999,0.90452999
+37085,"Harnett, North Carolina",0.68665999,1.1813101
+37087,"Haywood, North Carolina",0.65478998,1.16344
+37089,"Henderson, North Carolina",0.70547003,1.27371
+37091,"Hertford, North Carolina",0.54784,0.91525
+37093,"Hoke, North Carolina",0.67730999,1.1531
+37095,"Hyde, North Carolina",0.60378999,0.99704999
+37097,"Iredell, North Carolina",0.74871999,1.32248
+37099,"Jackson, North Carolina",0.68485999,1.15513
+37101,"Johnston, North Carolina",0.70789999,1.25565
+37103,"Jones, North Carolina",0.67894,1.05695
+37105,"Lee, North Carolina",0.63221997,1.1989501
+37107,"Lenoir, North Carolina",0.51138997,1.0018899
+37109,"Lincoln, North Carolina",0.73951,1.26552
+37111,"McDowell, North Carolina",0.50920999,0.96719998
+37113,"Macon, North Carolina",0.61914998,1.13638
+37115,"Madison, North Carolina",0.62162,1.19762
+37117,"Martin, North Carolina",0.53527999,0.97807997
+37119,"Mecklenburg, North Carolina",0.69432002,1.3969001
+37121,"Mitchell, North Carolina",0.57977003,0.99172002
+37123,"Montgomery, North Carolina",0.49377999,0.92697001
+37125,"Moore, North Carolina",0.78341001,1.40185
+37127,"Nash, North Carolina",0.53665,1.0098799
+37129,"New Hanover, North Carolina",0.84261,1.41391
+37131,"Northampton, North Carolina",0.49340001,0.86786997
+37133,"Onslow, North Carolina",0.87911999,1.22999
+37135,"Orange, North Carolina",1.00869,1.5708801
+37137,"Pamlico, North Carolina",0.65873998,1.0844001
+37139,"Pasquotank, North Carolina",0.66816998,1.0894099
+37141,"Pender, North Carolina",0.73663998,1.33491
+37143,"Perquimans, North Carolina",0.67325002,1.02969
+37145,"Person, North Carolina",0.62191999,1.09536
+37147,"Pitt, North Carolina",0.63674998,1.23016
+37149,"Polk, North Carolina",0.74510998,1.22507
+37151,"Randolph, North Carolina",0.59280002,1.0287499
+37153,"Richmond, North Carolina",0.43776,0.85720003
+37155,"Robeson, North Carolina",0.36258,0.76340997
+37157,"Rockingham, North Carolina",0.5424,1.02724
+37159,"Rowan, North Carolina",0.65586001,1.12182
+37161,"Rutherford, North Carolina",0.56173003,1.0009
+37163,"Sampson, North Carolina",0.45984,0.94435
+37165,"Scotland, North Carolina",0.39579999,0.88946998
+37167,"Stanly, North Carolina",0.71094,1.1361001
+37169,"Stokes, North Carolina",0.64993,1.0505199
+37171,"Surry, North Carolina",0.56948,0.98089999
+37173,"Swain, North Carolina",0.52556998,0.98486
+37175,"Transylvania, North Carolina",0.71653003,1.32944
+37177,"Tyrrell, North Carolina",NA,NA
+37179,"Union, North Carolina",0.76831001,1.41275
+37181,"Vance, North Carolina",0.44448,0.88710999
+37183,"Wake, North Carolina",0.87829,1.44507
+37185,"Warren, North Carolina",0.49867001,0.91860998
+37187,"Washington, North Carolina",0.47264999,0.80204999
+37189,"Watauga, North Carolina",0.93870002,1.3866
+37191,"Wayne, North Carolina",0.56178999,1.0954601
+37193,"Wilkes, North Carolina",0.56142002,0.98014998
+37195,"Wilson, North Carolina",0.55903,1.07257
+37197,"Yadkin, North Carolina",0.60162002,1.0407701
+37199,"Yancey, North Carolina",0.57858002,1.06177
+38000,"State average, North Dakota",1.054993109375,1.46013708354167
+38001,"Adams, North Dakota",1.1501499,1.49611
+38003,"Barnes, North Dakota",1.13077,1.48747
+38005,"Benson, North Dakota",0.52886999,1.39625
+38009,"Bottineau, North Dakota",1.09551,1.49044
+38011,"Bowman, North Dakota",1.12242,1.51625
+38013,"Burke, North Dakota",1.20022,1.50658
+38015,"Burleigh, North Dakota",1.02599,1.5426
+38017,"Cass, North Dakota",1.0505199,1.5591201
+38019,"Cavalier, North Dakota",1.18753,1.57731
+38021,"Dickey, North Dakota",1.18812,1.50272
+38023,"Divide, North Dakota",1.1331199,1.49289
+38025,"Dunn, North Dakota",0.96776998,1.40953
+38027,"Eddy, North Dakota",0.90284997,1.44025
+38029,"Emmons, North Dakota",1.10806,1.59017
+38031,"Foster, North Dakota",1.18168,1.55275
+38033,"Golden Valley, North Dakota",1.19318,1.46268
+38035,"Grand Forks, North Dakota",1.07225,1.50931
+38037,"Grant, North Dakota",1.10545,1.46313
+38039,"Griggs, North Dakota",1.17641,1.4916199
+38041,"Hettinger, North Dakota",1.16316,1.49424
+38043,"Kidder, North Dakota",1.17696,1.5193
+38045,"LaMoure, North Dakota",1.2376699,1.56146
+38047,"Logan, North Dakota",NA,NA
+38049,"McHenry, North Dakota",1.17722,1.49446
+38051,"McIntosh, North Dakota",1.17327,1.49415
+38053,"McKenzie, North Dakota",0.84794998,1.26691
+38055,"McLean, North Dakota",1.13799,1.48588
+38057,"Mercer, North Dakota",1.15844,1.53148
+38059,"Morton, North Dakota",0.96066999,1.48241
+38061,"Mountrail, North Dakota",0.79137999,1.26837
+38063,"Nelson, North Dakota",1.12535,1.50026
+38065,"Oliver, North Dakota",1.05109,1.52166
+38067,"Pembina, North Dakota",1.1064,1.48174
+38069,"Pierce, North Dakota",1.17816,1.47297
+38071,"Ramsey, North Dakota",0.89409,1.4291101
+38073,"Ransom, North Dakota",1.19326,1.51047
+38075,"Renville, North Dakota",1.1142499,1.4362299
+38077,"Richland, North Dakota",1.06183,1.47756
+38079,"Rolette, North Dakota",0.54341,1.05
+38081,"Sargent, North Dakota",1.12652,1.48072
+38083,"Sheridan, North Dakota",NA,NA
+38085,"Sioux, North Dakota",0.44782999,0.97600001
+38089,"Stark, North Dakota",1.04264,1.41582
+38091,"Steele, North Dakota",NA,NA
+38093,"Stutsman, North Dakota",1.04766,1.48076
+38095,"Towner, North Dakota",1.0874799,1.49612
+38097,"Traill, North Dakota",1.15844,1.51803
+38099,"Walsh, North Dakota",0.98212999,1.48715
+38101,"Ward, North Dakota",1.03633,1.43081
+38103,"Wells, North Dakota",1.16505,1.50863
+38105,"Williams, North Dakota",0.93216997,1.3267
+39000,"State average, Ohio",0.806546474886364,1.26850307386364
+39001,"Adams, Ohio",0.70907998,1.10449
+39003,"Allen, Ohio",0.74994999,1.29566
+39005,"Ashland, Ohio",0.84399998,1.2599699
+39007,"Ashtabula, Ohio",0.66042,1.0991499
+39009,"Athens, Ohio",0.82167,1.33091
+39011,"Auglaize, Ohio",0.99730998,1.39983
+39013,"Belmont, Ohio",0.81888002,1.2191
+39015,"Brown, Ohio",0.81642002,1.18036
+39017,"Butler, Ohio",0.74945003,1.3633
+39019,"Carroll, Ohio",0.81195003,1.15057
+39021,"Champaign, Ohio",0.83530998,1.2367001
+39023,"Clark, Ohio",0.65981001,1.20367
+39025,"Clermont, Ohio",0.92811,1.42579
+39027,"Clinton, Ohio",0.80985999,1.24542
+39029,"Columbiana, Ohio",0.72987998,1.16425
+39031,"Coshocton, Ohio",0.67357999,1.14353
+39033,"Crawford, Ohio",0.72738999,1.1443
+39035,"Cuyahoga, Ohio",0.70183003,1.39689
+39037,"Darke, Ohio",0.86445999,1.2631299
+39039,"Defiance, Ohio",0.85663998,1.28461
+39041,"Delaware, Ohio",1.0463099,1.55197
+39043,"Erie, Ohio",0.75787002,1.27424
+39045,"Fairfield, Ohio",0.86900002,1.3495899
+39047,"Fayette, Ohio",0.71192998,1.1674401
+39049,"Franklin, Ohio",0.79273999,1.45893
+39051,"Fulton, Ohio",0.92549998,1.33157
+39053,"Gallia, Ohio",0.70699,1.1598901
+39055,"Geauga, Ohio",1.07594,1.47208
+39057,"Greene, Ohio",0.86914998,1.38153
+39059,"Guernsey, Ohio",0.75321001,1.1794
+39061,"Hamilton, Ohio",0.70008999,1.4802901
+39063,"Hancock, Ohio",0.89083999,1.3871599
+39065,"Hardin, Ohio",0.81193,1.2610101
+39067,"Harrison, Ohio",0.73277003,1.13214
+39069,"Henry, Ohio",0.92720002,1.3472
+39071,"Highland, Ohio",0.73097003,1.1397099
+39073,"Hocking, Ohio",0.74777001,1.17392
+39075,"Holmes, Ohio",0.84948999,1.24142
+39077,"Huron, Ohio",0.75757003,1.1896501
+39079,"Jackson, Ohio",0.65818,1.07506
+39081,"Jefferson, Ohio",0.73128003,1.20041
+39083,"Knox, Ohio",0.86973,1.32907
+39085,"Lake, Ohio",0.90890998,1.37954
+39087,"Lawrence, Ohio",0.72838998,1.12465
+39089,"Licking, Ohio",0.83693999,1.35419
+39091,"Logan, Ohio",0.8348,1.2654901
+39093,"Lorain, Ohio",0.73821998,1.33122
+39095,"Lucas, Ohio",0.62805003,1.31394
+39097,"Madison, Ohio",0.81291997,1.28259
+39099,"Mahoning, Ohio",0.67082,1.25539
+39101,"Marion, Ohio",0.67791998,1.19686
+39103,"Medina, Ohio",1.0374399,1.42672
+39105,"Meigs, Ohio",0.72807002,1.12552
+39107,"Mercer, Ohio",1.00626,1.4576401
+39109,"Miami, Ohio",0.84397,1.32996
+39111,"Monroe, Ohio",0.85277998,1.14957
+39113,"Montgomery, Ohio",0.69151998,1.34176
+39115,"Morgan, Ohio",0.68515003,1.0906301
+39117,"Morrow, Ohio",0.86496001,1.2731
+39119,"Muskingum, Ohio",0.7755,1.25886
+39121,"Noble, Ohio",0.81796998,1.15056
+39123,"Ottawa, Ohio",0.90588999,1.3034
+39125,"Paulding, Ohio",0.84733999,1.23287
+39127,"Perry, Ohio",0.80677003,1.21425
+39129,"Pickaway, Ohio",0.82278001,1.29172
+39131,"Pike, Ohio",0.66828001,1.1109101
+39133,"Portage, Ohio",0.90020001,1.35528
+39135,"Preble, Ohio",0.86185998,1.24088
+39137,"Putnam, Ohio",1.0652601,1.47163
+39139,"Richland, Ohio",0.70231003,1.1982
+39141,"Ross, Ohio",0.70226997,1.17285
+39143,"Sandusky, Ohio",0.77818,1.2022099
+39145,"Scioto, Ohio",0.67526001,1.1682301
+39147,"Seneca, Ohio",0.78896999,1.23043
+39149,"Shelby, Ohio",0.83661997,1.32742
+39151,"Stark, Ohio",0.73763001,1.2802
+39153,"Summit, Ohio",0.73465002,1.37565
+39155,"Trumbull, Ohio",0.68054003,1.1364
+39157,"Tuscarawas, Ohio",0.79400998,1.23276
+39159,"Union, Ohio",1.0073299,1.4694901
+39161,"Van Wert, Ohio",0.85885,1.31598
+39163,"Vinton, Ohio",0.64091998,1.03501
+39165,"Warren, Ohio",1.00939,1.48137
+39167,"Washington, Ohio",0.82717001,1.22905
+39169,"Wayne, Ohio",0.85602999,1.32921
+39171,"Williams, Ohio",0.83604002,1.26079
+39173,"Wood, Ohio",0.95169997,1.39943
+39175,"Wyandot, Ohio",0.85679001,1.25915
+40000,"State average, Oklahoma",0.789574287792208,1.22615168831169
+40001,"Adair, Oklahoma",0.56884998,1.00754
+40003,"Alfalfa, Oklahoma",0.97180998,1.39591
+40005,"Atoka, Oklahoma",0.74085999,1.11412
+40007,"Beaver, Oklahoma",0.85790002,1.2976201
+40009,"Beckham, Oklahoma",0.79718,1.26408
+40011,"Blaine, Oklahoma",0.78219002,1.25757
+40013,"Bryan, Oklahoma",0.76130998,1.20135
+40015,"Caddo, Oklahoma",0.71758002,1.17679
+40017,"Canadian, Oklahoma",0.8969,1.38144
+40019,"Carter, Oklahoma",0.73022002,1.22088
+40021,"Cherokee, Oklahoma",0.72100002,1.20561
+40023,"Choctaw, Oklahoma",0.65806001,1.01099
+40025,"Cimarron, Oklahoma",0.88417,1.17449
+40027,"Cleveland, Oklahoma",0.87399,1.3803999
+40029,"Coal, Oklahoma",0.78437001,1.1515
+40031,"Comanche, Oklahoma",0.76792997,1.1845
+40033,"Cotton, Oklahoma",0.81432003,1.1596299
+40035,"Craig, Oklahoma",0.76392001,1.1448801
+40037,"Creek, Oklahoma",0.78388,1.23199
+40039,"Custer, Oklahoma",0.81513,1.33085
+40041,"Delaware, Oklahoma",0.69872999,1.1427701
+40043,"Dewey, Oklahoma",1.0147001,1.35964
+40045,"Ellis, Oklahoma",0.91093999,1.32661
+40047,"Garfield, Oklahoma",0.74176002,1.31197
+40049,"Garvin, Oklahoma",0.80202001,1.19706
+40051,"Grady, Oklahoma",0.84030002,1.2828701
+40053,"Grant, Oklahoma",1.00205,1.38992
+40055,"Greer, Oklahoma",0.78727001,1.1689399
+40057,"Harmon, Oklahoma",0.70244998,1.1179399
+40059,"Harper, Oklahoma",0.87738001,1.32121
+40061,"Haskell, Oklahoma",0.73275,1.09806
+40063,"Hughes, Oklahoma",0.67249,1.07706
+40065,"Jackson, Oklahoma",0.76111001,1.31513
+40067,"Jefferson, Oklahoma",0.79698002,1.17364
+40069,"Johnston, Oklahoma",0.77030998,1.1685899
+40071,"Kay, Oklahoma",0.71648997,1.20263
+40073,"Kingfisher, Oklahoma",0.87247002,1.36265
+40075,"Kiowa, Oklahoma",0.74449998,1.20859
+40077,"Latimer, Oklahoma",0.83036,1.1638499
+40079,"Le Flore, Oklahoma",0.73620999,1.11352
+40081,"Lincoln, Oklahoma",0.85468,1.23768
+40083,"Logan, Oklahoma",0.88113999,1.35276
+40085,"Love, Oklahoma",0.76358002,1.13498
+40087,"McClain, Oklahoma",0.93167001,1.3547
+40089,"McCurtain, Oklahoma",0.63761002,1.03293
+40091,"McIntosh, Oklahoma",0.72637999,1.1349601
+40093,"Major, Oklahoma",0.92264998,1.3356301
+40095,"Marshall, Oklahoma",0.71557999,1.1521
+40097,"Mayes, Oklahoma",0.76169002,1.18098
+40099,"Murray, Oklahoma",0.82839,1.23973
+40101,"Muskogee, Oklahoma",0.66659999,1.15426
+40103,"Noble, Oklahoma",0.84243,1.35132
+40105,"Nowata, Oklahoma",0.80958003,1.1802
+40107,"Okfuskee, Oklahoma",0.68790001,1.0814
+40109,"Oklahoma, Oklahoma",0.70977998,1.4224499
+40111,"Okmulgee, Oklahoma",0.71116,1.15877
+40113,"Osage, Oklahoma",0.82165998,1.25143
+40115,"Ottawa, Oklahoma",0.67198002,1.0759
+40117,"Pawnee, Oklahoma",0.80603999,1.16636
+40119,"Payne, Oklahoma",0.95532,1.42607
+40121,"Pittsburg, Oklahoma",0.76336002,1.19884
+40123,"Pontotoc, Oklahoma",0.79229999,1.28697
+40125,"Pottawatomie, Oklahoma",0.76410002,1.23981
+40127,"Pushmataha, Oklahoma",0.71293998,1.08092
+40129,"Roger Mills, Oklahoma",0.91150999,1.28347
+40131,"Rogers, Oklahoma",0.86802,1.29889
+40133,"Seminole, Oklahoma",0.64942998,1.13386
+40135,"Sequoyah, Oklahoma",0.71340001,1.09447
+40137,"Stephens, Oklahoma",0.81597,1.25642
+40139,"Texas, Oklahoma",0.63112003,1.14499
+40141,"Tillman, Oklahoma",0.68554997,1.16682
+40143,"Tulsa, Oklahoma",0.73294997,1.4025
+40145,"Wagoner, Oklahoma",0.87896001,1.34676
+40147,"Washington, Oklahoma",0.82841998,1.3334301
+40149,"Washita, Oklahoma",0.80930001,1.22989
+40151,"Woods, Oklahoma",1.0228,1.41469
+40153,"Woodward, Oklahoma",0.80843002,1.28155
+41000,"State average, Oregon",0.794841424571429,1.25728372285714
+41001,"Baker, Oregon",0.74776,1.1848
+41003,"Benton, Oregon",1.02566,1.4712501
+41005,"Clackamas, Oregon",0.97426999,1.4439
+41007,"Clatsop, Oregon",0.85488999,1.28959
+41009,"Columbia, Oregon",0.89573002,1.26659
+41011,"Coos, Oregon",0.70731997,1.13691
+41013,"Crook, Oregon",0.79209,1.1852601
+41015,"Curry, Oregon",0.76620001,1.2029099
+41017,"Deschutes, Oregon",0.96754998,1.47482
+41019,"Douglas, Oregon",0.68304002,1.10093
+41021,"Gilliam, Oregon",0.87222999,1.19841
+41023,"Grant, Oregon",0.82319999,1.21854
+41025,"Harney, Oregon",0.78446001,1.20409
+41027,"Hood River, Oregon",0.78618997,1.4507999
+41029,"Jackson, Oregon",0.75441003,1.26677
+41031,"Jefferson, Oregon",0.60784,1.12624
+41033,"Josephine, Oregon",0.72365999,1.17496
+41035,"Klamath, Oregon",0.68084002,1.15756
+41037,"Lake, Oregon",0.71856999,1.14941
+41039,"Lane, Oregon",0.83085001,1.3354501
+41041,"Lincoln, Oregon",0.7281,1.25106
+41043,"Linn, Oregon",0.81481999,1.26938
+41045,"Malheur, Oregon",0.59495997,1.06135
+41047,"Marion, Oregon",0.72185999,1.28308
+41049,"Morrow, Oregon",0.60996997,1.0440201
+41051,"Multnomah, Oregon",0.91854,1.53157
+41053,"Polk, Oregon",0.84210998,1.31191
+41055,"Sherman, Oregon",0.88849998,1.26599
+41057,"Tillamook, Oregon",0.75831997,1.24485
+41059,"Umatilla, Oregon",0.66812998,1.1309
+41061,"Union, Oregon",0.78798002,1.2109801
+41063,"Wallowa, Oregon",0.91021001,1.32278
+41065,"Wasco, Oregon",0.75089002,1.21387
+41067,"Washington, Oregon",0.97408998,1.46714
+41069,"Wheeler, Oregon",NA,NA
+41071,"Yamhill, Oregon",0.85421002,1.35686
+42000,"State average, Pennsylvania",0.862979103283582,1.31161865373134
+42001,"Adams, Pennsylvania",0.97083998,1.36598
+42003,"Allegheny, Pennsylvania",0.88018,1.51047
+42005,"Armstrong, Pennsylvania",0.87656999,1.2414
+42007,"Beaver, Pennsylvania",0.86811,1.34496
+42009,"Bedford, Pennsylvania",0.84540999,1.17926
+42011,"Berks, Pennsylvania",0.78762001,1.3960299
+42013,"Blair, Pennsylvania",0.78536999,1.26897
+42015,"Bradford, Pennsylvania",0.81533998,1.22324
+42017,"Bucks, Pennsylvania",1.0862,1.53847
+42019,"Butler, Pennsylvania",1.00737,1.46595
+42021,"Cambria, Pennsylvania",0.80493999,1.25465
+42023,"Cameron, Pennsylvania",0.78442001,1.14194
+42025,"Carbon, Pennsylvania",0.94252002,1.3253599
+42027,"Centre, Pennsylvania",1.077,1.51098
+42029,"Chester, Pennsylvania",1.0078,1.59848
+42031,"Clarion, Pennsylvania",0.815,1.22086
+42033,"Clearfield, Pennsylvania",0.7572,1.17864
+42035,"Clinton, Pennsylvania",0.81599998,1.20771
+42037,"Columbia, Pennsylvania",0.90041,1.31727
+42039,"Crawford, Pennsylvania",0.78702998,1.21343
+42041,"Cumberland, Pennsylvania",0.98786002,1.4595
+42043,"Dauphin, Pennsylvania",0.75862002,1.37054
+42045,"Delaware, Pennsylvania",0.87858999,1.51081
+42047,"Elk, Pennsylvania",0.84274,1.2350301
+42049,"Erie, Pennsylvania",0.74436998,1.3044
+42051,"Fayette, Pennsylvania",0.72009999,1.1891299
+42053,"Forest, Pennsylvania",0.83029997,1.21024
+42055,"Franklin, Pennsylvania",0.85508001,1.30829
+42057,"Fulton, Pennsylvania",0.87519997,1.18247
+42059,"Greene, Pennsylvania",0.82053,1.24721
+42061,"Huntingdon, Pennsylvania",0.81386,1.19741
+42063,"Indiana, Pennsylvania",0.85698003,1.27316
+42065,"Jefferson, Pennsylvania",0.79215997,1.17285
+42067,"Juniata, Pennsylvania",0.85202998,1.26121
+42069,"Lackawanna, Pennsylvania",0.83389997,1.36747
+42071,"Lancaster, Pennsylvania",0.88984001,1.45915
+42073,"Lawrence, Pennsylvania",0.8143,1.27836
+42075,"Lebanon, Pennsylvania",0.80646998,1.35159
+42077,"Lehigh, Pennsylvania",0.77371001,1.406
+42079,"Luzerne, Pennsylvania",0.77534997,1.3059601
+42081,"Lycoming, Pennsylvania",0.85042,1.3163
+42083,"McKean, Pennsylvania",0.71309,1.1539299
+42085,"Mercer, Pennsylvania",0.78386003,1.2488101
+42087,"Mifflin, Pennsylvania",0.76933002,1.18067
+42089,"Monroe, Pennsylvania",0.98337001,1.33745
+42091,"Montgomery, Pennsylvania",1.05414,1.60303
+42093,"Montour, Pennsylvania",1.0483201,1.50537
+42095,"Northampton, Pennsylvania",0.96735001,1.4809901
+42097,"Northumberland, Pennsylvania",0.80321002,1.23426
+42099,"Perry, Pennsylvania",0.94691998,1.29948
+42101,"Philadelphia, Pennsylvania",0.72140998,1.45938
+42103,"Pike, Pennsylvania",1.0429,1.38026
+42105,"Potter, Pennsylvania",0.81028003,1.16248
+42107,"Schuylkill, Pennsylvania",0.84337002,1.2610199
+42109,"Snyder, Pennsylvania",0.89385003,1.2753
+42111,"Somerset, Pennsylvania",0.84035999,1.21535
+42113,"Sullivan, Pennsylvania",0.90698999,1.24123
+42115,"Susquehanna, Pennsylvania",0.86316001,1.22618
+42117,"Tioga, Pennsylvania",0.83758998,1.20118
+42119,"Union, Pennsylvania",0.92391998,1.41029
+42121,"Venango, Pennsylvania",0.72775,1.15398
+42123,"Warren, Pennsylvania",0.76808,1.19207
+42125,"Washington, Pennsylvania",0.91777998,1.41053
+42127,"Wayne, Pennsylvania",0.97128999,1.32331
+42129,"Westmoreland, Pennsylvania",0.91854,1.36357
+42131,"Wyoming, Pennsylvania",0.89131999,1.2672499
+42133,"York, Pennsylvania",0.88367999,1.37995
+44000,"State average, Rhode Island",1.023337978,1.52717002
+44001,"Bristol, Rhode Island",1.1302299,1.58513
+44003,"Kent, Rhode Island",1.02583,1.49044
+44005,"Newport, Rhode Island",1.029,1.5630701
+44007,"Providence, Rhode Island",0.77961999,1.4225
+44009,"Washington, Rhode Island",1.15201,1.57471
+45000,"State average, South Carolina",0.563832824347826,1.08301108065217
+45001,"Abbeville, South Carolina",0.58048999,1.08771
+45003,"Aiken, South Carolina",0.63625997,1.1969399
+45005,"Allendale, South Carolina",0.36094999,0.82994998
+45007,"Anderson, South Carolina",0.63639998,1.1750799
+45009,"Bamberg, South Carolina",0.46811,0.90333003
+45011,"Barnwell, South Carolina",0.48780999,0.97305
+45013,"Beaufort, South Carolina",0.72795999,1.34289
+45015,"Berkeley, South Carolina",0.73764002,1.27744
+45017,"Calhoun, South Carolina",0.54623997,1.00606
+45019,"Charleston, South Carolina",0.79374999,1.5379601
+45021,"Cherokee, South Carolina",0.47005999,0.94793999
+45023,"Chester, South Carolina",0.51235998,0.94243997
+45025,"Chesterfield, South Carolina",0.50814003,0.91847003
+45027,"Clarendon, South Carolina",0.51820999,0.99928999
+45029,"Colleton, South Carolina",0.49731001,0.94217998
+45031,"Darlington, South Carolina",0.49919,1.04598
+45033,"Dillon, South Carolina",0.40854001,0.81436002
+45035,"Dorchester, South Carolina",0.72189999,1.21775
+45037,"Edgefield, South Carolina",0.64774001,1.20897
+45039,"Fairfield, South Carolina",0.50717998,1.0123
+45041,"Florence, South Carolina",0.53241998,1.06514
+45043,"Georgetown, South Carolina",0.53513998,1.1294399
+45045,"Greenville, South Carolina",0.71420002,1.36092
+45047,"Greenwood, South Carolina",0.51762003,1.1288199
+45049,"Hampton, South Carolina",0.49610999,0.86093998
+45051,"Horry, South Carolina",0.73052001,1.23172
+45053,"Jasper, South Carolina",0.51749998,1.04416
+45055,"Kershaw, South Carolina",0.66712999,1.15967
+45057,"Lancaster, South Carolina",0.61717999,1.33176
+45059,"Laurens, South Carolina",0.51590002,1.03082
+45061,"Lee, South Carolina",0.43004999,0.92739999
+45063,"Lexington, South Carolina",0.72398001,1.27167
+45065,"McCormick, South Carolina",0.55756003,1.21316
+45067,"Marion, South Carolina",0.42501,0.85082
+45069,"Marlboro, South Carolina",0.38475001,0.76222003
+45071,"Newberry, South Carolina",0.54468,1.13087
+45073,"Oconee, South Carolina",0.65385002,1.1856101
+45075,"Orangeburg, South Carolina",0.47217,0.91347998
+45077,"Pickens, South Carolina",0.74076003,1.27142
+45079,"Richland, South Carolina",0.62936002,1.22928
+45081,"Saluda, South Carolina",0.41246,0.93080002
+45083,"Spartanburg, South Carolina",0.63480002,1.16661
+45085,"Sumter, South Carolina",0.54737997,1.1075
+45087,"Union, South Carolina",0.46540999,0.90985
+45089,"Williamsburg, South Carolina",0.44545999,0.85307002
+45091,"York, South Carolina",0.75866997,1.3712699
+46000,"State average, South Dakota",0.953253048474576,1.41167779457627
+46003,"Aurora, South Dakota",1.01745,1.45669
+46005,"Beadle, South Dakota",0.70385998,1.33157
+46007,"Bennett, South Dakota",0.46919999,1.08373
+46009,"Bon Homme, South Dakota",1.10237,1.43001
+46011,"Brookings, South Dakota",1.12134,1.54717
+46013,"Brown, South Dakota",0.97460002,1.4883
+46015,"Brule, South Dakota",0.93831998,1.43484
+46017,"Buffalo, South Dakota",NA,NA
+46019,"Butte, South Dakota",0.93114001,1.31994
+46021,"Campbell, South Dakota",NA,NA
+46023,"Charles Mix, South Dakota",0.68909001,1.43538
+46025,"Clark, South Dakota",1.0449899,1.4798
+46027,"Clay, South Dakota",1.12011,1.52776
+46029,"Codington, South Dakota",1.03684,1.43756
+46031,"Corson, South Dakota",0.42884001,1.23964
+46033,"Custer, South Dakota",1.03025,1.41088
+46035,"Davison, South Dakota",0.95797002,1.45555
+46037,"Day, South Dakota",1.04679,1.47032
+46039,"Deuel, South Dakota",1.1843801,1.4552701
+46041,"Dewey, South Dakota",0.43900999,1.0490299
+46043,"Douglas, South Dakota",1.1218899,1.49432
+46045,"Edmunds, South Dakota",1.0732,1.5051301
+46047,"Fall River, South Dakota",0.90066999,1.3041
+46049,"Faulk, South Dakota",1.2204,1.58609
+46051,"Grant, South Dakota",0.97103,1.48413
+46053,"Gregory, South Dakota",0.95346999,1.37341
+46055,"Haakon, South Dakota",1.03464,1.3913
+46057,"Hamlin, South Dakota",0.94291002,1.42444
+46059,"Hand, South Dakota",1.20684,1.47685
+46061,"Hanson, South Dakota",1.21354,1.4947701
+46063,"Harding, South Dakota",NA,NA
+46065,"Hughes, South Dakota",0.94766003,1.4876699
+46067,"Hutchinson, South Dakota",1.12265,1.50819
+46069,"Hyde, South Dakota",1.04081,1.44897
+46071,"Jackson, South Dakota",0.51108998,1.20906
+46073,"Jerauld, South Dakota",0.99953002,1.41717
+46075,"Jones, South Dakota",NA,NA
+46077,"Kingsbury, South Dakota",1.1634099,1.4821
+46079,"Lake, South Dakota",1.06596,1.50896
+46081,"Lawrence, South Dakota",1.0430599,1.40924
+46083,"Lincoln, South Dakota",1.15819,1.5539
+46085,"Lyman, South Dakota",0.56233001,1.26954
+46087,"McCook, South Dakota",1.13397,1.5088
+46089,"McPherson, South Dakota",1.16277,1.51148
+46091,"Marshall, South Dakota",0.89946002,1.47542
+46093,"Meade, South Dakota",1.00753,1.35978
+46095,"Mellette, South Dakota",NA,NA
+46097,"Miner, South Dakota",1.19283,1.5217299
+46099,"Minnehaha, South Dakota",0.90403998,1.52853
+46101,"Moody, South Dakota",0.90495002,1.4623899
+46102,"Shannon, South Dakota",0.33048001,0.91438001
+46103,"Pennington, South Dakota",0.83902001,1.37183
+46105,"Perkins, South Dakota",1.15097,1.40527
+46107,"Potter, South Dakota",1.23702,1.5063
+46109,"Roberts, South Dakota",0.65166998,1.29546
+46111,"Sanborn, South Dakota",1.01472,1.42822
+46115,"Spink, South Dakota",1.08323,1.47149
+46117,"Stanley, South Dakota",0.97946,1.40512
+46119,"Sully, South Dakota",NA,NA
+46121,"Todd, South Dakota",0.29469001,0.97662997
+46123,"Tripp, South Dakota",0.86050999,1.35698
+46125,"Turner, South Dakota",1.14179,1.50468
+46127,"Union, South Dakota",1.1800801,1.54179
+46129,"Walworth, South Dakota",0.84601998,1.42422
+46135,"Yankton, South Dakota",0.93689001,1.43571
+46137,"Ziebach, South Dakota",NA,NA
+47000,"State average, Tennessee",0.679045161052632,1.11997589726316
+47001,"Anderson, Tennessee",0.75264001,1.25878
+47003,"Bedford, Tennessee",0.62904,1.11467
+47005,"Benton, Tennessee",0.63856,1.02584
+47007,"Bledsoe, Tennessee",0.59378999,1.0189199
+47009,"Blount, Tennessee",0.77205002,1.29143
+47011,"Bradley, Tennessee",0.68295002,1.21049
+47013,"Campbell, Tennessee",0.58462,0.95432001
+47015,"Cannon, Tennessee",0.76207,1.17652
+47017,"Carroll, Tennessee",0.69080001,1.1101201
+47019,"Carter, Tennessee",0.60005999,1.04591
+47021,"Cheatham, Tennessee",0.84446001,1.32537
+47023,"Chester, Tennessee",0.75444001,1.22027
+47025,"Claiborne, Tennessee",0.60639,1.09214
+47027,"Clay, Tennessee",0.66702998,0.99125999
+47029,"Cocke, Tennessee",0.53513002,0.93485999
+47031,"Coffee, Tennessee",0.69243002,1.17459
+47033,"Crockett, Tennessee",0.67750001,1.1655101
+47035,"Cumberland, Tennessee",0.62562001,1.03334
+47037,"Davidson, Tennessee",0.71960002,1.4992501
+47039,"Decatur, Tennessee",0.75637001,1.11254
+47041,"DeKalb, Tennessee",0.63034999,1.06861
+47043,"Dickson, Tennessee",0.74438,1.2005399
+47045,"Dyer, Tennessee",0.62905002,1.1095901
+47047,"Fayette, Tennessee",0.83490002,1.40459
+47049,"Fentress, Tennessee",0.57985002,0.94696999
+47051,"Franklin, Tennessee",0.69016999,1.15583
+47053,"Gibson, Tennessee",0.70519,1.1828001
+47055,"Giles, Tennessee",0.66206998,1.0715801
+47057,"Grainger, Tennessee",0.59908998,0.98221999
+47059,"Greene, Tennessee",0.59437001,1.05352
+47061,"Grundy, Tennessee",0.60712999,1.00455
+47063,"Hamblen, Tennessee",0.56844002,1.0660501
+47065,"Hamilton, Tennessee",0.75304002,1.37353
+47067,"Hancock, Tennessee",0.51174003,0.77860999
+47069,"Hardeman, Tennessee",0.59661001,0.97092998
+47071,"Hardin, Tennessee",0.69696999,1.12316
+47073,"Hawkins, Tennessee",0.59419,0.99808002
+47075,"Haywood, Tennessee",0.50795001,0.99365002
+47077,"Henderson, Tennessee",0.69380999,1.08753
+47079,"Henry, Tennessee",0.6868,1.15755
+47081,"Hickman, Tennessee",0.68589997,1.10026
+47083,"Houston, Tennessee",0.71349001,1.02697
+47085,"Humphreys, Tennessee",0.67760998,1.06075
+47087,"Jackson, Tennessee",0.65932,1.04059
+47089,"Jefferson, Tennessee",0.69108999,1.1119601
+47091,"Johnson, Tennessee",0.5571,0.97421998
+47093,"Knox, Tennessee",0.78470999,1.40165
+47095,"Lake, Tennessee",0.52592999,0.97745001
+47097,"Lauderdale, Tennessee",0.56652999,0.99094999
+47099,"Lawrence, Tennessee",0.67153001,1.0674
+47101,"Lewis, Tennessee",0.68299001,1.0573699
+47103,"Lincoln, Tennessee",0.66999,1.10137
+47105,"Loudon, Tennessee",0.71500999,1.22865
+47107,"McMinn, Tennessee",0.65197998,1.10384
+47109,"McNairy, Tennessee",0.74825001,1.1582
+47111,"Macon, Tennessee",0.62804002,1.02092
+47113,"Madison, Tennessee",0.61183,1.2162499
+47115,"Marion, Tennessee",0.63818997,1.01297
+47117,"Marshall, Tennessee",0.72364998,1.1914901
+47119,"Maury, Tennessee",0.80249,1.4128799
+47121,"Meigs, Tennessee",0.58504999,1.0051301
+47123,"Monroe, Tennessee",0.60153002,1.0044399
+47125,"Montgomery, Tennessee",0.83792001,1.22261
+47127,"Moore, Tennessee",0.84228998,1.15336
+47129,"Morgan, Tennessee",0.64822,1.00887
+47131,"Obion, Tennessee",0.6631,1.16185
+47133,"Overton, Tennessee",0.70015001,1.03438
+47135,"Perry, Tennessee",0.68383998,1.0406899
+47137,"Pickett, Tennessee",0.66235,0.97088999
+47139,"Polk, Tennessee",0.64074999,1.0015399
+47141,"Putnam, Tennessee",0.74646997,1.21258
+47143,"Rhea, Tennessee",0.59630001,1.07265
+47145,"Roane, Tennessee",0.67638999,1.1095999
+47147,"Robertson, Tennessee",0.76104999,1.2835799
+47149,"Rutherford, Tennessee",0.82494003,1.28747
+47151,"Scott, Tennessee",0.57778001,0.90706998
+47153,"Sequatchie, Tennessee",0.63419002,1.02248
+47155,"Sevier, Tennessee",0.67552,1.15113
+47157,"Shelby, Tennessee",0.52814001,1.2503901
+47159,"Smith, Tennessee",0.71149999,1.10078
+47161,"Stewart, Tennessee",0.81932002,1.12129
+47163,"Sullivan, Tennessee",0.67641002,1.17118
+47165,"Sumner, Tennessee",0.82476002,1.35479
+47167,"Tipton, Tennessee",0.80690002,1.26363
+47169,"Trousdale, Tennessee",0.67444003,1.06286
+47171,"Unicoi, Tennessee",0.62787998,1.0549001
+47173,"Union, Tennessee",0.60087001,1.0068099
+47175,"Van Buren, Tennessee",0.59694999,0.96481001
+47177,"Warren, Tennessee",0.60272002,1.10167
+47179,"Washington, Tennessee",0.74717999,1.27663
+47181,"Wayne, Tennessee",0.68234003,1.02966
+47183,"Weakley, Tennessee",0.76284999,1.20039
+47185,"White, Tennessee",0.62506998,1.05993
+47187,"Williamson, Tennessee",1.1341701,1.5980901
+47189,"Wilson, Tennessee",0.85267001,1.3874201
+48000,"State average, Texas",0.766790257012987,1.23867549545455
+48001,"Anderson, Texas",0.68866998,1.11341
+48003,"Andrews, Texas",0.84294999,1.26439
+48005,"Angelina, Texas",0.69543999,1.1998
+48007,"Aransas, Texas",0.80969,1.30428
+48009,"Archer, Texas",0.87865001,1.33162
+48011,"Armstrong, Texas",1.07024,1.4157701
+48013,"Atascosa, Texas",0.68539,1.09377
+48015,"Austin, Texas",0.82190001,1.34323
+48017,"Bailey, Texas",0.56537998,1.13842
+48019,"Bandera, Texas",0.92465001,1.33334
+48021,"Bastrop, Texas",0.66676003,1.24702
+48023,"Baylor, Texas",0.84042001,1.2900701
+48025,"Bee, Texas",0.67040998,1.0968
+48027,"Bell, Texas",0.77035999,1.20402
+48029,"Bexar, Texas",0.71173,1.29696
+48031,"Blanco, Texas",0.97692001,1.45526
+48035,"Bosque, Texas",0.81014001,1.28486
+48037,"Bowie, Texas",0.67631,1.14659
+48039,"Brazoria, Texas",0.83867002,1.3332
+48041,"Brazos, Texas",0.82018,1.47082
+48043,"Brewster, Texas",0.98229998,1.38553
+48045,"Briscoe, Texas",NA,NA
+48047,"Brooks, Texas",0.47837001,0.91110998
+48049,"Brown, Texas",0.76362997,1.21429
+48051,"Burleson, Texas",0.79666001,1.35992
+48053,"Burnet, Texas",0.83811003,1.35677
+48055,"Caldwell, Texas",0.68268001,1.1992199
+48057,"Calhoun, Texas",0.74904001,1.21225
+48059,"Callahan, Texas",0.85600001,1.26308
+48061,"Cameron, Texas",0.48561999,0.91816998
+48063,"Camp, Texas",0.69485003,1.166
+48065,"Carson, Texas",1.04585,1.397
+48067,"Cass, Texas",0.73061001,1.13359
+48069,"Castro, Texas",0.62001997,1.31062
+48071,"Chambers, Texas",0.85763001,1.33983
+48073,"Cherokee, Texas",0.64780998,1.2451
+48075,"Childress, Texas",0.78938001,1.20982
+48077,"Clay, Texas",0.90792,1.25543
+48079,"Cochran, Texas",0.65393001,1.1337
+48081,"Coke, Texas",0.9702,1.3794301
+48083,"Coleman, Texas",0.72548997,1.24508
+48085,"Collin, Texas",1.0616699,1.5087399
+48087,"Collingsworth, Texas",0.75351,1.27011
+48089,"Colorado, Texas",0.73430002,1.33099
+48091,"Comal, Texas",0.99019003,1.47712
+48093,"Comanche, Texas",0.74312001,1.24283
+48095,"Concho, Texas",NA,NA
+48097,"Cooke, Texas",0.80071998,1.28833
+48099,"Coryell, Texas",0.83302999,1.17145
+48101,"Cottle, Texas",NA,NA
+48103,"Crane, Texas",0.77411997,1.18483
+48105,"Crockett, Texas",0.75739002,1.19661
+48107,"Crosby, Texas",0.72017002,1.25254
+48109,"Culberson, Texas",0.77182001,1.33402
+48111,"Dallam, Texas",0.64752001,1.1992199
+48113,"Dallas, Texas",0.63424999,1.36524
+48115,"Dawson, Texas",0.63875997,1.22446
+48117,"Deaf Smith, Texas",0.57874,1.0478899
+48119,"Delta, Texas",0.83983999,1.22589
+48121,"Denton, Texas",0.98328,1.45365
+48123,"DeWitt, Texas",0.77981001,1.26452
+48125,"Dickens, Texas",NA,NA
+48127,"Dimmit, Texas",0.57446003,0.92925
+48129,"Donley, Texas",0.91601002,1.26194
+48131,"Duval, Texas",0.59026998,0.94226998
+48133,"Eastland, Texas",0.78671002,1.20667
+48135,"Ector, Texas",0.78214997,1.20365
+48137,"Edwards, Texas",0.69123,1.2074701
+48139,"Ellis, Texas",0.82852,1.3338799
+48141,"El Paso, Texas",0.64658999,1.0541101
+48143,"Erath, Texas",0.86059999,1.34972
+48145,"Falls, Texas",0.56549001,1.14258
+48147,"Fannin, Texas",0.83718997,1.27124
+48149,"Fayette, Texas",0.8592,1.37727
+48151,"Fisher, Texas",0.86805999,1.31747
+48153,"Floyd, Texas",0.69265002,1.24544
+48155,"Foard, Texas",NA,NA
+48157,"Fort Bend, Texas",0.85812998,1.49045
+48159,"Franklin, Texas",0.80655003,1.2306499
+48161,"Freestone, Texas",0.76169997,1.18543
+48163,"Frio, Texas",0.56471002,0.94651002
+48165,"Gaines, Texas",0.82081997,1.24956
+48167,"Galveston, Texas",0.83270001,1.4172601
+48169,"Garza, Texas",0.75414002,1.16899
+48171,"Gillespie, Texas",0.84829998,1.43358
+48173,"Glasscock, Texas",NA,NA
+48175,"Goliad, Texas",0.88993001,1.34645
+48177,"Gonzales, Texas",0.63777,1.1049
+48179,"Gray, Texas",0.74809998,1.2565
+48181,"Grayson, Texas",0.82727998,1.33263
+48183,"Gregg, Texas",0.71904999,1.28373
+48185,"Grimes, Texas",0.82354999,1.3586299
+48187,"Guadalupe, Texas",0.85474002,1.32336
+48189,"Hale, Texas",0.61313999,1.15599
+48191,"Hall, Texas",NA,NA
+48193,"Hamilton, Texas",0.85563999,1.3159699
+48195,"Hansford, Texas",0.76011997,1.39722
+48197,"Hardeman, Texas",0.80598998,1.1400599
+48199,"Hardin, Texas",0.91417003,1.3407201
+48201,"Harris, Texas",0.67668003,1.37254
+48203,"Harrison, Texas",0.67927003,1.21262
+48207,"Haskell, Texas",0.78201997,1.26533
+48209,"Hays, Texas",0.85219002,1.43251
+48211,"Hemphill, Texas",0.8549,1.39378
+48213,"Henderson, Texas",0.75220001,1.20126
+48215,"Hidalgo, Texas",0.52191001,0.91925001
+48217,"Hill, Texas",0.74773002,1.19165
+48219,"Hockley, Texas",0.73356003,1.25058
+48221,"Hood, Texas",0.90656,1.37842
+48223,"Hopkins, Texas",0.79097003,1.23524
+48225,"Houston, Texas",0.65561998,1.16891
+48227,"Howard, Texas",0.76109999,1.21092
+48229,"Hudspeth, Texas",NA,NA
+48231,"Hunt, Texas",0.82055002,1.29205
+48233,"Hutchinson, Texas",0.80466998,1.22873
+48235,"Irion, Texas",NA,NA
+48237,"Jack, Texas",0.82705998,1.30435
+48239,"Jackson, Texas",0.83033001,1.26622
+48241,"Jasper, Texas",0.81098002,1.19171
+48243,"Jeff Davis, Texas",NA,NA
+48245,"Jefferson, Texas",0.67346001,1.23655
+48247,"Jim Hogg, Texas",0.57916999,0.85444999
+48249,"Jim Wells, Texas",0.64227998,1.00525
+48251,"Johnson, Texas",0.86857998,1.34464
+48253,"Jones, Texas",0.79263997,1.22489
+48255,"Karnes, Texas",0.72005999,1.19546
+48257,"Kaufman, Texas",0.78201997,1.2806799
+48259,"Kendall, Texas",1.02351,1.51802
+48265,"Kerr, Texas",0.79914999,1.34202
+48267,"Kimble, Texas",0.80001998,1.2575901
+48271,"Kinney, Texas",NA,NA
+48273,"Kleberg, Texas",0.73377001,1.1609499
+48275,"Knox, Texas",0.77196997,1.21299
+48277,"Lamar, Texas",0.71825999,1.19977
+48279,"Lamb, Texas",0.65913999,1.22631
+48281,"Lampasas, Texas",0.85227001,1.2486
+48283,"La Salle, Texas",0.58717,0.95890999
+48285,"Lavaca, Texas",0.81727999,1.35386
+48287,"Lee, Texas",0.82529998,1.31853
+48289,"Leon, Texas",0.79465997,1.24901
+48291,"Liberty, Texas",0.70385998,1.19175
+48293,"Limestone, Texas",0.65666002,1.1071301
+48295,"Lipscomb, Texas",0.80715001,1.2372299
+48297,"Live Oak, Texas",0.80335999,1.23239
+48299,"Llano, Texas",0.80267,1.33702
+48303,"Lubbock, Texas",0.76855999,1.41221
+48305,"Lynn, Texas",0.85031998,1.4307899
+48307,"McCulloch, Texas",0.69806999,1.24954
+48309,"McLennan, Texas",0.68001002,1.34138
+48311,"McMullen, Texas",NA,NA
+48313,"Madison, Texas",0.69716001,1.19813
+48315,"Marion, Texas",0.76415002,1.1448801
+48317,"Martin, Texas",0.87796998,1.3164901
+48319,"Mason, Texas",0.88789999,1.39531
+48321,"Matagorda, Texas",0.71632999,1.21623
+48323,"Maverick, Texas",0.68305999,1.00615
+48325,"Medina, Texas",0.78584999,1.26905
+48327,"Menard, Texas",0.64155,1.11792
+48329,"Midland, Texas",0.84231001,1.29796
+48331,"Milam, Texas",0.72762001,1.2451
+48333,"Mills, Texas",0.85066998,1.2742701
+48335,"Mitchell, Texas",0.79342997,1.21534
+48337,"Montague, Texas",0.84710002,1.25099
+48339,"Montgomery, Texas",0.84201998,1.44293
+48341,"Moore, Texas",0.62011999,1.09637
+48343,"Morris, Texas",0.66114998,1.11295
+48347,"Nacogdoches, Texas",0.70853001,1.30844
+48349,"Navarro, Texas",0.67293,1.17713
+48351,"Newton, Texas",0.79048997,1.1205
+48353,"Nolan, Texas",0.71263999,1.19621
+48355,"Nueces, Texas",0.72533,1.2277
+48357,"Ochiltree, Texas",0.66895002,1.19941
+48359,"Oldham, Texas",1.1142499,1.42941
+48361,"Orange, Texas",0.83389997,1.27315
+48363,"Palo Pinto, Texas",0.75871998,1.2218699
+48365,"Panola, Texas",0.78579998,1.22522
+48367,"Parker, Texas",0.97498,1.45992
+48369,"Parmer, Texas",0.61421001,1.08205
+48371,"Pecos, Texas",0.81389999,1.1469899
+48373,"Polk, Texas",0.72953999,1.1436599
+48375,"Potter, Texas",0.69432998,1.27558
+48377,"Presidio, Texas",0.8477,1.2995
+48379,"Rains, Texas",0.79636002,1.1898299
+48381,"Randall, Texas",0.85433,1.33619
+48383,"Reagan, Texas",0.74109,1.11824
+48385,"Real, Texas",0.87980002,1.30898
+48387,"Red River, Texas",0.70543998,1.09067
+48389,"Reeves, Texas",0.72328001,1.0565
+48391,"Refugio, Texas",0.73110998,1.16887
+48395,"Robertson, Texas",0.71644998,1.2418
+48397,"Rockwall, Texas",0.94744998,1.4408799
+48399,"Runnels, Texas",0.76265001,1.24187
+48401,"Rusk, Texas",0.72330999,1.18269
+48403,"Sabine, Texas",0.78754997,1.0898401
+48405,"San Augustine, Texas",0.64100999,1.02154
+48407,"San Jacinto, Texas",0.75695002,1.19366
+48409,"San Patricio, Texas",0.74300998,1.1768
+48411,"San Saba, Texas",0.73303002,1.2345099
+48413,"Schleicher, Texas",0.78022999,1.24166
+48415,"Scurry, Texas",0.78162003,1.2364399
+48417,"Shackelford, Texas",0.88690001,1.30373
+48419,"Shelby, Texas",0.63335001,1.12015
+48421,"Sherman, Texas",0.71311998,1.27142
+48423,"Smith, Texas",0.75515002,1.33792
+48425,"Somervell, Texas",0.95037001,1.42168
+48427,"Starr, Texas",0.50836003,0.78180999
+48429,"Stephens, Texas",0.76441002,1.18677
+48431,"Sterling, Texas",0.95087999,1.473
+48433,"Stonewall, Texas",NA,NA
+48435,"Sutton, Texas",0.77819997,1.23947
+48437,"Swisher, Texas",0.66207999,1.18031
+48439,"Tarrant, Texas",0.75234997,1.38388
+48441,"Taylor, Texas",0.80875999,1.35664
+48445,"Terry, Texas",0.63616002,1.13165
+48447,"Throckmorton, Texas",NA,NA
+48449,"Titus, Texas",0.61958998,1.1056
+48451,"Tom Green, Texas",0.78692001,1.30988
+48453,"Travis, Texas",0.81379002,1.58201
+48455,"Trinity, Texas",0.75336999,1.1792001
+48457,"Tyler, Texas",0.84077001,1.1983401
+48459,"Upshur, Texas",0.81557,1.22881
+48461,"Upton, Texas",0.88827997,1.24902
+48463,"Uvalde, Texas",0.61726999,1.1187299
+48465,"Val Verde, Texas",0.77535999,1.18831
+48467,"Van Zandt, Texas",0.86023998,1.28002
+48469,"Victoria, Texas",0.76161999,1.25668
+48471,"Walker, Texas",0.82393003,1.33485
+48473,"Waller, Texas",0.72937,1.3364
+48475,"Ward, Texas",0.80839998,1.21479
+48477,"Washington, Texas",0.82129002,1.40527
+48479,"Webb, Texas",0.58604997,1.05173
+48481,"Wharton, Texas",0.71438003,1.27703
+48483,"Wheeler, Texas",0.83652002,1.24793
+48485,"Wichita, Texas",0.78311002,1.29609
+48487,"Wilbarger, Texas",0.68305999,1.1381201
+48489,"Willacy, Texas",0.44778001,0.80478001
+48491,"Williamson, Texas",0.99892998,1.48577
+48493,"Wilson, Texas",0.84755999,1.3168
+48495,"Winkler, Texas",0.69106001,1.08802
+48497,"Wise, Texas",0.91407001,1.3893
+48499,"Wood, Texas",0.83902001,1.2385
+48501,"Yoakum, Texas",0.71538001,1.17163
+48503,"Young, Texas",0.78574997,1.29012
+48505,"Zapata, Texas",0.49759999,0.80663002
+48507,"Zavala, Texas",0.48462999,0.79391998
+49000,"State average, Utah",1.02116481333333,1.4181899962963
+49001,"Beaver, Utah",0.91952002,1.2836
+49003,"Box Elder, Utah",1.0478801,1.38819
+49005,"Cache, Utah",1.12169,1.49889
+49007,"Carbon, Utah",0.87629998,1.2645
+49009,"Daggett, Utah",NA,NA
+49011,"Davis, Utah",1.13732,1.52394
+49013,"Duchesne, Utah",0.93799001,1.3448499
+49015,"Emery, Utah",0.94695997,1.28678
+49017,"Garfield, Utah",1.00475,1.3419501
+49019,"Grand, Utah",0.92185003,1.43964
+49021,"Iron, Utah",1.0498199,1.40608
+49023,"Juab, Utah",1.103,1.42747
+49025,"Kane, Utah",1.06046,1.39378
+49027,"Millard, Utah",0.92627001,1.3671401
+49029,"Morgan, Utah",1.29125,1.56366
+49031,"Piute, Utah",NA,NA
+49033,"Rich, Utah",1.15372,1.42345
+49035,"Salt Lake, Utah",0.96394998,1.50339
+49037,"San Juan, Utah",0.74239999,1.33543
+49039,"Sanpete, Utah",1.02299,1.39039
+49041,"Sevier, Utah",0.98273998,1.3238699
+49043,"Summit, Utah",1.0624,1.63195
+49045,"Tooele, Utah",1.0494,1.38816
+49047,"Uintah, Utah",0.96320999,1.3599499
+49049,"Utah, Utah",1.21981,1.59293
+49051,"Wasatch, Utah",1.05335,1.56761
+49053,"Washington, Utah",1.04377,1.4556299
+49055,"Wayne, Utah",1.00697,1.37178
+49057,"Weber, Utah",0.96168,1.4161201
+50000,"State average, Vermont",0.945382147857143,1.40599572142857
+50001,"Addison, Vermont",1.03784,1.4681
+50003,"Bennington, Vermont",0.80440003,1.35246
+50005,"Caledonia, Vermont",0.87686998,1.33105
+50007,"Chittenden, Vermont",1.10281,1.59051
+50009,"Essex, Vermont",0.90438002,1.26938
+50011,"Franklin, Vermont",0.94081998,1.36788
+50013,"Grand Isle, Vermont",1.00116,1.4491
+50015,"Lamoille, Vermont",0.97904003,1.47648
+50017,"Orange, Vermont",0.91381001,1.35427
+50019,"Orleans, Vermont",0.81247997,1.25919
+50021,"Rutland, Vermont",0.90890002,1.37309
+50023,"Washington, Vermont",0.99014002,1.47817
+50025,"Windham, Vermont",0.97283,1.44003
+50027,"Windsor, Vermont",0.98987001,1.4742301
+51000,"State average, Virginia",0.824223837678571,1.25480053678571
+51001,"Accomack, Virginia",0.60536999,1.11019
+51003,"Albemarle, Virginia",0.95630997,1.58977
+51005,"Alleghany, Virginia",0.71134001,1.08854
+51007,"Amelia, Virginia",0.86866999,1.23142
+51009,"Amherst, Virginia",0.74804997,1.23753
+51011,"Appomattox, Virginia",0.7683,1.18874
+51013,"Arlington, Virginia",1.27232,1.64351
+51015,"Augusta, Virginia",0.84091997,1.31654
+51017,"Bath, Virginia",0.81326002,1.1888601
+51019,"Bedford County, Virginia",0.83568001,1.33331
+51021,"Bland, Virginia",0.81533998,1.0935
+51023,"Botetourt, Virginia",0.89207,1.31652
+51025,"Brunswick, Virginia",0.62915999,1.0484
+51027,"Buchanan, Virginia",0.59603,0.93919998
+51029,"Buckingham, Virginia",0.70270997,1.12684
+51031,"Campbell, Virginia",0.73935997,1.21881
+51033,"Caroline, Virginia",0.89245999,1.25831
+51035,"Carroll, Virginia",0.63270998,0.98549998
+51036,"Charles City, Virginia",0.79977,1.17414
+51037,"Charlotte, Virginia",0.70819002,1.1426899
+51041,"Chesterfield, Virginia",0.83429998,1.3921
+51043,"Clarke, Virginia",1.09168,1.4942
+51045,"Craig, Virginia",0.84161001,1.17615
+51047,"Culpeper, Virginia",0.89826,1.3231601
+51049,"Cumberland, Virginia",0.81217998,1.14878
+51051,"Dickenson, Virginia",0.59495002,0.88582999
+51053,"Dinwiddie, Virginia",0.91285998,1.27644
+51057,"Essex, Virginia",0.70363998,1.1403
+51059,"Fairfax County, Virginia",1.18538,1.55942
+51061,"Fauquier, Virginia",1.0944901,1.48708
+51063,"Floyd, Virginia",0.88106,1.2485501
+51065,"Fluvanna, Virginia",0.93138999,1.3889101
+51067,"Franklin County, Virginia",0.72048002,1.1793
+51069,"Frederick, Virginia",0.93985999,1.3649499
+51071,"Giles, Virginia",0.79152,1.1732
+51073,"Gloucester, Virginia",0.89819002,1.27747
+51075,"Goochland, Virginia",0.95920998,1.45184
+51077,"Grayson, Virginia",0.64275998,1.05498
+51079,"Greene, Virginia",0.89335001,1.3642401
+51081,"Greensville, Virginia",0.58453,0.92456001
+51083,"Halifax, Virginia",0.65188003,1.04791
+51085,"Hanover, Virginia",1.01144,1.45736
+51087,"Henrico, Virginia",0.90784001,1.50727
+51089,"Henry, Virginia",0.53038001,0.99396998
+51091,"Highland, Virginia",NA,NA
+51093,"Isle of Wight, Virginia",0.92602003,1.3391
+51095,"James City, Virginia",0.91961998,1.4490401
+51097,"King and Queen, Virginia",0.80549002,1.1512901
+51099,"King George, Virginia",0.99470001,1.32708
+51101,"King William, Virginia",0.94582999,1.30349
+51103,"Lancaster, Virginia",0.72868001,1.25149
+51105,"Lee, Virginia",0.56015003,0.89814001
+51107,"Loudoun, Virginia",1.21831,1.57473
+51109,"Louisa, Virginia",0.88902998,1.32917
+51111,"Lunenburg, Virginia",0.62655002,1.1265301
+51113,"Madison, Virginia",0.97447997,1.35138
+51115,"Mathews, Virginia",0.92199999,1.30018
+51117,"Mecklenburg, Virginia",0.66047001,1.13519
+51119,"Middlesex, Virginia",0.85513002,1.30746
+51121,"Montgomery, Virginia",0.97715002,1.45546
+51125,"Nelson, Virginia",0.82766002,1.33841
+51127,"New Kent, Virginia",1.01447,1.38964
+51131,"Northampton, Virginia",0.59029001,1.23962
+51133,"Northumberland, Virginia",0.73800999,1.21807
+51135,"Nottoway, Virginia",0.65688998,1.11479
+51137,"Orange, Virginia",0.97021002,1.34131
+51139,"Page, Virginia",0.75493997,1.15311
+51141,"Patrick, Virginia",0.62647003,1.07364
+51143,"Pittsylvania, Virginia",0.61970001,1.04361
+51145,"Powhatan, Virginia",1.08288,1.45706
+51147,"Prince Edward, Virginia",0.72586,1.21691
+51149,"Prince George, Virginia",0.71406001,1.07249
+51153,"Prince William, Virginia",1.0034699,1.36271
+51155,"Pulaski, Virginia",0.71180999,1.14331
+51157,"Rappahannock, Virginia",1.1182899,1.4833699
+51159,"Richmond County, Virginia",0.73539001,1.14249
+51161,"Roanoke County, Virginia",0.84574997,1.33822
+51163,"Rockbridge, Virginia",0.78819001,1.38319
+51165,"Rockingham, Virginia",0.82757998,1.30565
+51167,"Russell, Virginia",0.63954997,0.98497999
+51169,"Scott, Virginia",0.65649003,1.00314
+51171,"Shenandoah, Virginia",0.89308,1.28126
+51173,"Smyth, Virginia",0.60777998,1.03136
+51175,"Southampton, Virginia",0.72742999,1.14973
+51177,"Spotsylvania, Virginia",0.99290001,1.3365
+51179,"Stafford, Virginia",1.09514,1.34138
+51181,"Surry, Virginia",0.87603998,1.21772
+51183,"Sussex, Virginia",0.71425998,1.13069
+51185,"Tazewell, Virginia",0.69266999,1.03897
+51187,"Warren, Virginia",0.95218003,1.33926
+51191,"Washington, Virginia",0.71915001,1.18209
+51193,"Westmoreland, Virginia",0.84639001,1.2144001
+51195,"Wise, Virginia",0.61698002,0.98883998
+51197,"Wythe, Virginia",0.70653999,1.09468
+51199,"York, Virginia",1.0395401,1.43894
+51510,"Alexandria, Virginia",1.1665699,1.53888
+51520,"Bristol, Virginia",0.65881002,1.15018
+51550,"Chesapeake, Virginia",0.86219001,1.32347
+51630,"Fredericksburg, Virginia",0.95475,1.40482
+51650,"Hampton, Virginia",0.77201003,1.20275
+51660,"Harrisonburg, Virginia",0.75871998,1.4397399
+51680,"Lynchburg, Virginia",0.81634003,1.3969899
+51683,"Manassas, Virginia",0.87203997,1.2758
+51700,"Newport News, Virginia",0.72425002,1.22269
+51710,"Norfolk, Virginia",0.74779999,1.31133
+51735,"Poquoson, Virginia",1.08648,1.42774
+51740,"Portsmouth, Virginia",0.68109,1.1569099
+51750,"Radford, Virginia",0.94036001,1.38402
+51760,"Richmond City, Virginia",0.71754998,1.5093
+51770,"Roanoke City, Virginia",0.66887999,1.36964
+51800,"Suffolk, Virginia",0.76181,1.2277
+51810,"Virginia Beach, Virginia",0.97580999,1.35864
+51840,"Winchester, Virginia",0.87470001,1.3954999
+53000,"State average, Washington",0.868723077948718,1.30295204615385
+53001,"Adams, Washington",0.57655001,1.1692899
+53003,"Asotin, Washington",0.77544999,1.17826
+53005,"Benton, Washington",0.84521002,1.35613
+53007,"Chelan, Washington",0.78862,1.38951
+53009,"Clallam, Washington",0.81461,1.25852
+53011,"Clark, Washington",0.95416999,1.36939
+53013,"Columbia, Washington",0.89323002,1.2292399
+53015,"Cowlitz, Washington",0.80116999,1.21603
+53017,"Douglas, Washington",0.72619998,1.2769001
+53019,"Ferry, Washington",0.75190002,1.14675
+53021,"Franklin, Washington",0.63029999,1.1882499
+53023,"Garfield, Washington",0.89845997,1.26243
+53025,"Grant, Washington",0.66772997,1.20428
+53027,"Grays Harbor, Washington",0.71723998,1.13192
+53029,"Island, Washington",1.10506,1.40894
+53031,"Jefferson, Washington",0.98638999,1.42617
+53033,"King, Washington",1.05981,1.59407
+53035,"Kitsap, Washington",1.0187,1.40754
+53037,"Kittitas, Washington",1.06787,1.44858
+53039,"Klickitat, Washington",0.84938002,1.34231
+53041,"Lewis, Washington",0.79364997,1.17221
+53043,"Lincoln, Washington",0.96564001,1.2923599
+53045,"Mason, Washington",0.79365999,1.22101
+53047,"Okanogan, Washington",0.67690003,1.23982
+53049,"Pacific, Washington",0.79742002,1.2280101
+53051,"Pend Oreille, Washington",0.77293003,1.15622
+53053,"Pierce, Washington",0.96635002,1.38715
+53055,"San Juan, Washington",1.10831,1.47558
+53057,"Skagit, Washington",0.89818001,1.36639
+53059,"Skamania, Washington",0.87009001,1.29714
+53061,"Snohomish, Washington",1.1969,1.45575
+53063,"Spokane, Washington",0.87164003,1.33597
+53065,"Stevens, Washington",0.79434001,1.21653
+53067,"Thurston, Washington",0.95962,1.35339
+53069,"Wahkiakum, Washington",0.92339998,1.18859
+53071,"Walla Walla, Washington",0.79860997,1.33851
+53073,"Whatcom, Washington",1.02012,1.47223
+53075,"Whitman, Washington",1.14211,1.46156
+53077,"Yakima, Washington",0.60228002,1.1522
+54000,"State average, West Virginia",0.783732722,1.09687346327273
+54001,"Barbour, West Virginia",0.75783998,1.0713201
+54003,"Berkeley, West Virginia",0.91837001,1.27816
+54005,"Boone, West Virginia",0.73480999,1.04116
+54007,"Braxton, West Virginia",0.73951,1.02985
+54009,"Brooke, West Virginia",0.85009998,1.15438
+54011,"Cabell, West Virginia",0.78292,1.2278399
+54013,"Calhoun, West Virginia",0.72855002,1.0101399
+54015,"Clay, West Virginia",0.69367999,0.98189998
+54017,"Doddridge, West Virginia",0.80581999,1.0989701
+54019,"Fayette, West Virginia",0.71179998,1.07321
+54021,"Gilmer, West Virginia",0.78750002,1.10118
+54023,"Grant, West Virginia",0.82637,1.06666
+54025,"Greenbrier, West Virginia",0.72649997,1.15189
+54027,"Hampshire, West Virginia",0.80567002,1.07969
+54029,"Hancock, West Virginia",0.81032997,1.1519001
+54031,"Hardy, West Virginia",0.78469002,1.10789
+54033,"Harrison, West Virginia",0.83278,1.25328
+54035,"Jackson, West Virginia",0.81516999,1.11018
+54037,"Jefferson, West Virginia",1.02248,1.40492
+54039,"Kanawha, West Virginia",0.78057998,1.21366
+54041,"Lewis, West Virginia",0.76216,1.10007
+54043,"Lincoln, West Virginia",0.68465,0.96934003
+54045,"Logan, West Virginia",0.76949,0.98092002
+54047,"McDowell, West Virginia",0.61795002,0.73491001
+54049,"Marion, West Virginia",0.85907,1.26003
+54051,"Marshall, West Virginia",0.81603998,1.09745
+54053,"Mason, West Virginia",0.75542998,1.0257
+54055,"Mercer, West Virginia",0.69611001,0.99324
+54057,"Mineral, West Virginia",0.78760999,1.03922
+54059,"Mingo, West Virginia",0.72046,0.91632003
+54061,"Monongalia, West Virginia",1.04337,1.40134
+54063,"Monroe, West Virginia",0.73977,0.98514003
+54065,"Morgan, West Virginia",0.94422001,1.19163
+54067,"Nicholas, West Virginia",0.72352999,1.0367301
+54069,"Ohio, West Virginia",0.84407997,1.2678601
+54071,"Pendleton, West Virginia",0.81923002,1.16028
+54073,"Pleasants, West Virginia",0.81949002,1.07197
+54075,"Pocahontas, West Virginia",0.72144997,1.11146
+54077,"Preston, West Virginia",0.80150998,1.13463
+54079,"Putnam, West Virginia",0.90502,1.28315
+54081,"Raleigh, West Virginia",0.77016997,1.07532
+54083,"Randolph, West Virginia",0.72000998,1.10569
+54085,"Ritchie, West Virginia",0.78837001,1.08108
+54087,"Roane, West Virginia",0.73936999,1.00378
+54089,"Summers, West Virginia",0.74229002,1.03333
+54091,"Taylor, West Virginia",0.82805997,1.17626
+54093,"Tucker, West Virginia",0.85754001,1.18107
+54095,"Tyler, West Virginia",0.77591002,1.02634
+54097,"Upshur, West Virginia",0.73927999,1.13117
+54099,"Wayne, West Virginia",0.73597997,1.01361
+54101,"Webster, West Virginia",0.64393002,0.93791997
+54103,"Wetzel, West Virginia",0.75822997,1.05212
+54105,"Wirt, West Virginia",0.76740998,1.0621001
+54107,"Wood, West Virginia",0.76836997,1.15706
+54109,"Wyoming, West Virginia",0.72426999,0.92162001
+55000,"State average, Wisconsin",0.963143056527778,1.38532944541667
+55001,"Adams, Wisconsin",0.86633003,1.29418
+55003,"Ashland, Wisconsin",0.85315001,1.32245
+55005,"Barron, Wisconsin",0.94326001,1.33832
+55007,"Bayfield, Wisconsin",0.94802999,1.3661
+55009,"Brown, Wisconsin",0.89327002,1.45356
+55011,"Buffalo, Wisconsin",1.10782,1.44524
+55013,"Burnett, Wisconsin",0.95499003,1.33202
+55015,"Calumet, Wisconsin",1.02194,1.43909
+55017,"Chippewa, Wisconsin",1.0607001,1.4406199
+55019,"Clark, Wisconsin",0.85109001,1.31407
+55021,"Columbia, Wisconsin",1.04537,1.43102
+55023,"Crawford, Wisconsin",1.0035599,1.35223
+55025,"Dane, Wisconsin",1.06365,1.59251
+55027,"Dodge, Wisconsin",1.00436,1.39921
+55029,"Door, Wisconsin",1.03837,1.4499
+55031,"Douglas, Wisconsin",0.95842999,1.38466
+55033,"Dunn, Wisconsin",1.06998,1.4317501
+55035,"Eau Claire, Wisconsin",1.08832,1.49181
+55037,"Florence, Wisconsin",0.87450999,1.29004
+55039,"Fond du Lac, Wisconsin",0.95112997,1.41008
+55041,"Forest, Wisconsin",0.77784997,1.18646
+55043,"Grant, Wisconsin",1.0685199,1.44621
+55045,"Green, Wisconsin",0.97666001,1.4116499
+55047,"Green Lake, Wisconsin",0.95270002,1.36133
+55049,"Iowa, Wisconsin",1.10043,1.4831001
+55051,"Iron, Wisconsin",0.87535,1.2321
+55053,"Jackson, Wisconsin",0.86918002,1.3126
+55055,"Jefferson, Wisconsin",0.99965,1.4572901
+55057,"Juneau, Wisconsin",0.92733997,1.29547
+55059,"Kenosha, Wisconsin",0.86063999,1.38832
+55061,"Kewaunee, Wisconsin",1.0058,1.39388
+55063,"La Crosse, Wisconsin",1.0507801,1.48939
+55065,"Lafayette, Wisconsin",0.96307999,1.43195
+55067,"Langlade, Wisconsin",0.87269002,1.30304
+55069,"Lincoln, Wisconsin",0.97943002,1.3356301
+55071,"Manitowoc, Wisconsin",0.92535001,1.38046
+55073,"Marathon, Wisconsin",1.00313,1.42342
+55075,"Marinette, Wisconsin",0.84467,1.22596
+55077,"Marquette, Wisconsin",0.94354999,1.32004
+55078,"Menominee, Wisconsin",0.42918,0.84135997
+55079,"Milwaukee, Wisconsin",0.65169001,1.42215
+55081,"Monroe, Wisconsin",0.82455999,1.3056
+55083,"Oconto, Wisconsin",0.95240998,1.33093
+55085,"Oneida, Wisconsin",0.95907003,1.37651
+55087,"Outagamie, Wisconsin",1.05121,1.4651
+55089,"Ozaukee, Wisconsin",1.23888,1.61861
+55091,"Pepin, Wisconsin",1.16372,1.4612499
+55093,"Pierce, Wisconsin",1.20155,1.53223
+55095,"Polk, Wisconsin",1.08313,1.41422
+55097,"Portage, Wisconsin",1.06637,1.4442101
+55099,"Price, Wisconsin",0.96502,1.32093
+55101,"Racine, Wisconsin",0.80355,1.3793401
+55103,"Richland, Wisconsin",0.94902998,1.3270299
+55105,"Rock, Wisconsin",0.84823,1.36415
+55107,"Rusk, Wisconsin",0.9048,1.25258
+55109,"St. Croix, Wisconsin",1.21556,1.55314
+55111,"Sauk, Wisconsin",0.95249999,1.39996
+55113,"Sawyer, Wisconsin",0.75729001,1.3421299
+55115,"Shawano, Wisconsin",0.88507003,1.31143
+55117,"Sheboygan, Wisconsin",0.96547002,1.43141
+55119,"Taylor, Wisconsin",0.99690998,1.34782
+55121,"Trempealeau, Wisconsin",0.83706999,1.40264
+55123,"Vernon, Wisconsin",1.08065,1.4157
+55125,"Vilas, Wisconsin",0.8926,1.41204
+55127,"Walworth, Wisconsin",0.98013002,1.4338599
+55129,"Washburn, Wisconsin",0.94177002,1.3358901
+55131,"Washington, Wisconsin",1.16124,1.53561
+55133,"Waukesha, Wisconsin",1.16272,1.60008
+55135,"Waupaca, Wisconsin",0.96855998,1.35058
+55137,"Waushara, Wisconsin",0.86504,1.29309
+55139,"Winnebago, Wisconsin",1.01756,1.45564
+55141,"Wood, Wisconsin",0.97869998,1.40934
+56000,"State average, Wyoming",0.988113045217391,1.35331826521739
+56001,"Albany, Wyoming",1.17079,1.49988
+56003,"Big Horn, Wyoming",0.96328002,1.30629
+56005,"Campbell, Wyoming",0.9569,1.30892
+56007,"Carbon, Wyoming",0.91947001,1.29282
+56009,"Converse, Wyoming",0.97887999,1.3116699
+56011,"Crook, Wyoming",1.10146,1.34901
+56013,"Fremont, Wyoming",0.74199998,1.30152
+56015,"Goshen, Wyoming",0.97428,1.2926
+56017,"Hot Springs, Wyoming",1.01328,1.3177201
+56019,"Johnson, Wyoming",1.07875,1.4095
+56021,"Laramie, Wyoming",0.92404997,1.35772
+56023,"Lincoln, Wyoming",1.0795799,1.4077801
+56025,"Natrona, Wyoming",0.91293001,1.3356
+56027,"Niobrara, Wyoming",0.9745,1.32611
+56029,"Park, Wyoming",1.0431401,1.3727
+56031,"Platte, Wyoming",0.93796998,1.31013
+56033,"Sheridan, Wyoming",0.99321002,1.3831
+56035,"Sublette, Wyoming",1.0839601,1.38574
+56037,"Sweetwater, Wyoming",0.96235001,1.32399
+56039,"Teton, Wyoming",1.07623,1.63551
+56041,"Uinta, Wyoming",0.95451999,1.3204
+56043,"Washakie, Wyoming",0.90666997,1.29208
+56045,"Weston, Wyoming",0.97839999,1.28553
